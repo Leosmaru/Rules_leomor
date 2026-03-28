@@ -6,7 +6,10 @@ cd /d "%~dp0"
 :: Сохраняем профили
 xcopy /E /I /Y "%~dp0Nekoray\config\profiles" "%~dp0profiles_backup"
 
-:: Обновляем
+:: Удаляем проблемный файл
+del /F /Q "%~dp0Nekoray\config\groups\nekobox.json"
+
+:: Сбрасываем и обновляем
 git reset --hard origin/main
 git pull
 

@@ -41,7 +41,7 @@
     "test_url_dl": "http://cachefly.cachefly.net/10mb.test",
     "theme": "Windows",
     "traffic_loop_interval": 1000,
-    "vpn_bypass_process": "Arc.exe\nchrome.exe\nDiscord.exe\nfirefox.exe\nTor Browser.exe\nScreenpresso.exe\nslack.exe\nTQ.exe\nperplexity.exe\nPerplexity.exe\nLoader.exe\nTelegram.exe\nSideQuest.exe\nggst-win64-shipping.exe",
+    "vpn_bypass_process": "Arc.exe\nchrome.exe\nDiscord.exe\nfirefox.exe\nTor Browser.exe\nScreenpresso.exe\nslack.exe\nTQ.exe\nperplexity.exe\nPerplexity.exe\nLoader.exe\nTelegram.exe\nSideQuest.exe\nggst-win64-shipping.exe\nпися.exe\n",
     "vpn_hide_console": true,
     "vpn_impl": 0,
     "vpn_internal_tun": true,

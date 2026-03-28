@@ -7,6 +7,7 @@ cd /d "%~dp0"
 xcopy /E /I /Y "%~dp0Nekoray\config\profiles" "%~dp0profiles_backup"
 
 :: Обновляем
+git reset --hard origin/main
 git pull
 
 :: Восстанавливаем профили

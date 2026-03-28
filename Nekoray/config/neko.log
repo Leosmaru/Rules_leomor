@@ -1,835 +1,4 @@
-2026/03/28 12:05:40 nekobox_core grpc server listening at 127.0.0.1:53917
-2026/03/28 12:16:30 nekobox_core grpc server listening at 127.0.0.1:54197
-2026/03/28 12:24:14 nekobox_core grpc server listening at 127.0.0.1:54362
-2026/03/28 12:27:09 nekobox_core grpc server listening at 127.0.0.1:54430
-2026/03/28 12:29:03 nekobox_core grpc server listening at 127.0.0.1:54482
-2026/03/28 12:30:18 nekobox_core grpc server listening at 127.0.0.1:54519
-2026/03/28 12:32:32 nekobox_core grpc server listening at 127.0.0.1:54614
-2026/03/28 12:34:40 nekobox_core grpc server listening at 127.0.0.1:54676
-2026/03/28 12:41:38 nekobox_core grpc server listening at 127.0.0.1:54859
-2026/03/28 13:16:00 nekobox_core grpc server listening at 127.0.0.1:55790
-2026/03/28 13:21:07 nekobox_core grpc server listening at 127.0.0.1:55910
-2026/03/28 13:23:54 nekobox_core grpc server listening at 127.0.0.1:55969
-2026/03/28 13:26:09 nekobox_core grpc server listening at 127.0.0.1:56030
-2026/03/28 13:38:26 nekobox_core grpc server listening at 127.0.0.1:56385
-2026/03/28 17:02:13 nekobox_core grpc server listening at 127.0.0.1:59523
-2026/03/28 17:05:28 nekobox_core grpc server listening at 127.0.0.1:59632
-2026/03/28 17:09:05 nekobox_core grpc server listening at 127.0.0.1:59741
-2026/03/28 17:12:28 nekobox_core grpc server listening at 127.0.0.1:59839
-2026/03/28 17:13:55 nekobox_core grpc server listening at 127.0.0.1:59882
-2026/03/28 17:15:33 nekobox_core grpc server listening at 127.0.0.1:59939
-2026/03/28 17:23:46 nekobox_core grpc server listening at 127.0.0.1:60228
-2026/03/28 17:27:53 nekobox_core grpc server listening at 127.0.0.1:60351
-2026/03/28 18:15:31 nekobox_core grpc server listening at 127.0.0.1:61904
-2026/03/28 18:22:07 nekobox_core grpc server listening at 127.0.0.1:62139
-2026/03/28 18:22:59 nekobox_core grpc server listening at 127.0.0.1:62229
-2026/03/28 18:23:10 nekobox_core grpc server listening at 127.0.0.1:62232
-INFO[0000] [984858750 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:51015
-INFO[0000] [984858750 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0000] [984858750 1ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0000] [984858750 20ms] outbound/direct[direct]: outbound packet connection
-INFO[0000] [1020526254 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:60992
-INFO[0000] [1020526254 0ms] inbound/tun[tun-in]: inbound packet connection to 64.233.164.198:443
-INFO[0000] [1020526254 1ms] router: found process path: C:\Program Files\Google\Chrome\Application\chrome.exe
-INFO[0000] [1020526254 1ms] outbound/vless[proxy]: outbound packet connection to 64.233.164.198:443
-INFO[0000] [1020526254 1ms] outbound/vless[proxy]: outbound packet connection to 64.233.164.198:443
-INFO[0000] [144167858 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:50012
-INFO[0000] [144167858 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0000] [144167858 1ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0000] [144167858 1ms] outbound/direct[direct]: outbound packet connection
-INFO[0000] [2781391801 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:49825
-INFO[0000] [2781391801 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0000] [2781391801 1ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0000] [2781391801 1ms] outbound/direct[direct]: outbound packet connection
-INFO[0000] [1291806837 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:49160
-INFO[0000] [1291806837 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0000] [1291806837 1ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0000] [1291806837 1ms] outbound/direct[direct]: outbound packet connection
-INFO[0000] [4002032699 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:54469
-INFO[0000] [4002032699 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0000] [4002032699 1ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0000] [4002032699 1ms] outbound/direct[direct]: outbound packet connection
-INFO[0001] [2066631559 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:63451
-INFO[0001] [2066631559 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0001] [2066631559 1ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0001] [2066631559 1ms] outbound/direct[direct]: outbound packet connection
-INFO[0001] [1051371405 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:55712
-INFO[0001] [1051371405 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0001] [1051371405 1ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0001] [1051371405 1ms] outbound/direct[direct]: outbound packet connection
-INFO[0001] [2981483872 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:53613
-INFO[0001] [2981483872 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0001] [2981483872 1ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0001] [2981483872 1ms] outbound/direct[direct]: outbound packet connection
-INFO[0002] [3456310961 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:53514
-INFO[0002] [3456310961 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0002] [3456310961 1ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0002] [3456310961 1ms] outbound/direct[direct]: outbound packet connection
-INFO[0005] [1196376207 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:50584
-INFO[0005] [1196376207 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0005] [1196376207 2ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0005] [1196376207 2ms] outbound/direct[direct]: outbound packet connection
-INFO[0012] [885543616 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:54276
-INFO[0012] [885543616 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0012] [885543616 1ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0012] [885543616 1ms] outbound/direct[direct]: outbound packet connection
-INFO[0012] [3897309118 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62242
-INFO[0012] [3897309118 0ms] inbound/tun[tun-in]: inbound connection to 23.73.4.199:443
-INFO[0012] [3897309118 143ms] router: found process path: C:\Program Files (x86)\Steam\steam.exe
-INFO[0012] [3897309118 143ms] outbound/direct[bypass]: outbound connection to 23.73.4.199:443
-INFO[0012] [3840271516 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62244
-INFO[0012] [3840271516 0ms] inbound/tun[tun-in]: inbound connection to 64.233.164.198:443
-INFO[0012] [3840271516 0ms] router: found process path: C:\Program Files\Google\Chrome\Application\chrome.exe
-INFO[0012] [3840271516 0ms] outbound/vless[proxy]: outbound connection to 64.233.164.198:443
-INFO[0012] [3840271516 55ms] outbound/vless[proxy]: outbound connection to 64.233.164.198:443
-INFO[0012] [261414209 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62246
-INFO[0012] [261414209 0ms] inbound/tun[tun-in]: inbound connection to 199.232.210.172:80
-INFO[0012] [261414209 0ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0012] [261414209 0ms] outbound/direct[bypass]: outbound connection to 199.232.210.172:80
-INFO[0013] [2330560577 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62248
-INFO[0013] [2330560577 0ms] inbound/tun[tun-in]: inbound connection to 162.159.128.233:443
-INFO[0013] [3097873951 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:60531
-INFO[0013] [3097873951 0ms] inbound/tun[tun-in]: inbound packet connection to 162.159.128.233:443
-INFO[0013] [2330560577 3ms] router: found process path: C:\Users\Leon\AppData\Local\Discord\app-1.0.9230\Discord.exe
-INFO[0013] [2330560577 4ms] outbound/vless[proxy]: outbound connection to 162.159.128.233:443
-INFO[0013] [3097873951 4ms] router: found process path: C:\Users\Leon\AppData\Local\Discord\app-1.0.9230\Discord.exe
-INFO[0013] [3097873951 4ms] outbound/vless[proxy]: outbound packet connection to 162.159.128.233:443
-INFO[0013] [3097873951 4ms] outbound/vless[proxy]: outbound packet connection to 162.159.128.233:443
-INFO[0013] [2330560577 68ms] outbound/vless[proxy]: outbound connection to 162.159.128.233:443
-INFO[0013] [4186652396 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62251
-INFO[0013] [4186652396 0ms] inbound/tun[tun-in]: inbound connection to 173.194.221.188:443
-INFO[0013] [4186652396 1ms] router: found process path: C:\Program Files\Google\Chrome\Application\chrome.exe
-INFO[0013] [4186652396 1ms] outbound/vless[proxy]: outbound connection to 173.194.221.188:443
-INFO[0013] [4186652396 59ms] outbound/vless[proxy]: outbound connection to 173.194.221.188:443
-INFO[0013] [557386864 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62253
-INFO[0013] [557386864 0ms] inbound/tun[tun-in]: inbound connection to 162.159.133.234:443
-INFO[0013] [557386864 1ms] router: found process path: C:\Users\Leon\AppData\Local\Discord\app-1.0.9230\Discord.exe
-INFO[0013] [557386864 1ms] outbound/vless[proxy]: outbound connection to 162.159.133.234:443
-INFO[0013] [557386864 61ms] outbound/vless[proxy]: outbound connection to 162.159.133.234:443
-INFO[0014] [2098907957 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:63432
-INFO[0014] [2098907957 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0014] [2098907957 3ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0014] [2098907957 3ms] outbound/direct[direct]: outbound packet connection
-INFO[0014] [2319024296 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:137
-INFO[0014] [2319024296 0ms] inbound/tun[tun-in]: inbound packet connection to 140.82.112.26:137
-INFO[0014] [2688326590 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:54464
-INFO[0014] [2688326590 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0014] [2319024296 1ms] router: found process path: :System
-INFO[0014] [2688326590 1ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0014] [2688326590 1ms] outbound/direct[direct]: outbound packet connection
-INFO[0017] [2467349122 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:65280
-INFO[0017] [2467349122 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0017] [2467349122 2ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0017] [2467349122 2ms] outbound/direct[direct]: outbound packet connection
-INFO[0018] [2444288136 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:63698
-INFO[0018] [2444288136 0ms] inbound/tun[tun-in]: inbound packet connection to 108.177.14.94:443
-INFO[0018] [2444288136 0ms] router: found process path: C:\Program Files\Google\Chrome\Application\chrome.exe
-INFO[0018] [2444288136 0ms] outbound/vless[proxy]: outbound packet connection to 108.177.14.94:443
-INFO[0018] [2444288136 0ms] outbound/vless[proxy]: outbound packet connection to 108.177.14.94:443
-INFO[0019] [3283720908 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:60896
-INFO[0019] [3283720908 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0019] [3283720908 6ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0019] [3283720908 6ms] outbound/direct[direct]: outbound packet connection
-INFO[0024] [2710338996 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62258
-INFO[0024] [2710338996 0ms] inbound/tun[tun-in]: inbound connection to 31.13.72.5:443
-INFO[0024] [1231682373 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:61622
-INFO[0024] [1231682373 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0024] [2710338996 2ms] router: found process path: C:\Program Files\Meta Horizon\Support\oculus-remote-desktop\RemoteDesktopCompanion.exe
-INFO[0024] [2710338996 2ms] outbound/direct[bypass]: outbound connection to 31.13.72.5:443
-INFO[0024] [1231682373 2ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0024] [1231682373 2ms] outbound/direct[direct]: outbound packet connection
-INFO[0026] [841751661 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62260
-INFO[0026] [841751661 0ms] inbound/tun[tun-in]: inbound connection to 31.13.72.8:443
-INFO[0026] [841751661 1ms] router: found process path: C:\Program Files\Meta Horizon\Support\oculus-remote-desktop\RemoteDesktopCompanion.exe
-INFO[0026] [841751661 1ms] outbound/direct[bypass]: outbound connection to 31.13.72.8:443
-INFO[0029] [278256743 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:61330
-INFO[0029] [278256743 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0029] [278256743 1ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0029] [278256743 1ms] outbound/direct[direct]: outbound packet connection
-INFO[0030] [4093889535 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62264
-INFO[0030] [4093889535 0ms] inbound/tun[tun-in]: inbound connection to 46.32.184.105:8443
-INFO[0030] [3513698042 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62263
-INFO[0030] [3513698042 0ms] inbound/tun[tun-in]: inbound connection to 46.32.184.105:8443
-INFO[0030] [1995969224 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62262
-INFO[0030] [1995969224 0ms] inbound/tun[tun-in]: inbound connection to 46.32.184.105:8443
-INFO[0030] [3513698042 1ms] router: found process path: C:\Users\Leon\AppData\Roaming\Telegram Desktop\Telegram.exe
-INFO[0030] [4093889535 1ms] router: found process path: C:\Users\Leon\AppData\Roaming\Telegram Desktop\Telegram.exe
-INFO[0030] [3513698042 1ms] outbound/direct[direct]: outbound connection to 46.32.184.105:8443
-INFO[0030] [4093889535 1ms] outbound/direct[direct]: outbound connection to 46.32.184.105:8443
-INFO[0030] [1995969224 1ms] router: found process path: C:\Users\Leon\AppData\Roaming\Telegram Desktop\Telegram.exe
-INFO[0030] [1995969224 1ms] outbound/direct[direct]: outbound connection to 46.32.184.105:8443
-INFO[0030] [3694457419 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62265
-INFO[0030] [3694457419 0ms] inbound/tun[tun-in]: inbound connection to 46.32.184.105:8443
-INFO[0030] [3072940530 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62269
-INFO[0030] [3072940530 0ms] inbound/tun[tun-in]: inbound connection to 46.32.184.105:8443
-INFO[0030] [3956650934 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62270
-INFO[0030] [3956650934 0ms] inbound/tun[tun-in]: inbound connection to 46.32.184.105:8443
-INFO[0030] [3694457419 0ms] router: found process path: C:\Users\Leon\AppData\Roaming\Telegram Desktop\Telegram.exe
-INFO[0030] [3694457419 0ms] outbound/direct[direct]: outbound connection to 46.32.184.105:8443
-INFO[0030] [3072940530 0ms] router: found process path: C:\Users\Leon\AppData\Roaming\Telegram Desktop\Telegram.exe
-INFO[0030] [3072940530 0ms] outbound/direct[direct]: outbound connection to 46.32.184.105:8443
-INFO[0030] [3956650934 0ms] router: found process path: C:\Users\Leon\AppData\Roaming\Telegram Desktop\Telegram.exe
-INFO[0030] [3956650934 0ms] outbound/direct[direct]: outbound connection to 46.32.184.105:8443
-INFO[0030] [1481854885 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62274
-INFO[0030] [1481854885 0ms] inbound/tun[tun-in]: inbound connection to 46.32.184.105:8443
-INFO[0030] [1481854885 0ms] router: found process path: C:\Users\Leon\AppData\Roaming\Telegram Desktop\Telegram.exe
-INFO[0030] [1481854885 0ms] outbound/direct[direct]: outbound connection to 46.32.184.105:8443
-INFO[0031] [2159221412 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:52261
-INFO[0031] [2159221412 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0031] [2159221412 5ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0031] [2159221412 5ms] outbound/direct[direct]: outbound packet connection
-INFO[0035] [3592630864 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:65295
-INFO[0035] [3592630864 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0035] [3592630864 2ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0035] [3592630864 2ms] outbound/direct[direct]: outbound packet connection
-INFO[0036] [346558334 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62276
-INFO[0036] [1328610089 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62277
-INFO[0036] [346558334 0ms] inbound/tun[tun-in]: inbound connection to 31.13.72.5:443
-INFO[0036] [1328610089 0ms] inbound/tun[tun-in]: inbound connection to 31.13.72.5:443
-INFO[0036] [346558334 7ms] router: found process path: C:\Program Files\Meta Horizon\Support\oculus-runtime\OVRServer_x64.exe
-INFO[0036] [346558334 7ms] outbound/direct[bypass]: outbound connection to 31.13.72.5:443
-INFO[0036] [1328610089 7ms] router: found process path: C:\Program Files\Meta Horizon\Support\oculus-runtime\OVRServer_x64.exe
-INFO[0036] [1328610089 7ms] outbound/direct[bypass]: outbound connection to 31.13.72.5:443
-INFO[0037] [2931761055 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62280
-INFO[0037] [2931761055 0ms] inbound/tun[tun-in]: inbound connection to 46.32.184.105:8443
-INFO[0037] [2931761055 1ms] router: found process path: C:\Users\Leon\AppData\Roaming\Telegram Desktop\Telegram.exe
-INFO[0037] [2931761055 1ms] outbound/direct[direct]: outbound connection to 46.32.184.105:8443
-INFO[0043] [1727675999 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:50362
-INFO[0043] [1727675999 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0043] [1727675999 4ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0043] [1727675999 4ms] outbound/direct[direct]: outbound packet connection
-ERROR[0043] [2710338996 19.17s] inbound/tun[tun-in]: download: raw-read tcp 192.168.1.59:62259->31.13.72.5:443: An existing connection was forcibly closed by the remote host.
-ERROR[0045] [841751661 19.17s] inbound/tun[tun-in]: download: raw-read tcp 192.168.1.59:62261->31.13.72.8:443: An existing connection was forcibly closed by the remote host.
-INFO[0048] [1819304108 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:61967
-INFO[0048] [1819304108 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0048] [1819304108 1ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0048] [1819304108 1ms] outbound/direct[direct]: outbound packet connection
-INFO[0048] [2036704379 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:54929
-INFO[0048] [2036704379 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0048] [2036704379 1ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0048] [2036704379 1ms] outbound/direct[direct]: outbound packet connection
-INFO[0048] [2938697121 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:63484
-INFO[0048] [2938697121 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0048] [2938697121 2ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0048] [2938697121 2ms] outbound/direct[direct]: outbound packet connection
-INFO[0053] [4020308706 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:59956
-INFO[0053] [4020308706 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0053] [4020308706 3ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0053] [4020308706 3ms] outbound/direct[direct]: outbound packet connection
-INFO[0053] [1758166901 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:52914
-INFO[0053] [1758166901 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0053] [1758166901 3ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0053] [1758166901 3ms] outbound/direct[direct]: outbound packet connection
-INFO[0055] [155461754 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62284
-INFO[0055] [155461754 0ms] inbound/tun[tun-in]: inbound connection to 31.13.72.8:443
-INFO[0055] [155461754 2ms] router: found process path: C:\Program Files\Meta Horizon\Support\oculus-remote-desktop\RemoteDesktopCompanion.exe
-INFO[0055] [155461754 2ms] outbound/direct[bypass]: outbound connection to 31.13.72.8:443
-INFO[0056] [3249641952 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:49965
-INFO[0056] [3249641952 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0056] [3249641952 2ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0056] [3249641952 2ms] outbound/direct[direct]: outbound packet connection
-INFO[0056] [1623294481 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:55240
-INFO[0056] [1623294481 0ms] inbound/tun[tun-in]: inbound packet connection to 64.233.164.198:443
-INFO[0056] [1623294481 1ms] router: found process path: C:\Program Files\Google\Chrome\Application\chrome.exe
-INFO[0056] [1623294481 1ms] outbound/vless[proxy]: outbound packet connection to 64.233.164.198:443
-INFO[0056] [1623294481 2ms] outbound/vless[proxy]: outbound packet connection to 64.233.164.198:443
-INFO[0060] [1749129612 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:55949
-INFO[0060] [1749129612 0ms] inbound/tun[tun-in]: inbound packet connection to 108.177.14.94:443
-INFO[0060] [1749129612 2ms] router: found process path: C:\Program Files\Google\Chrome\Application\chrome.exe
-INFO[0060] [1749129612 2ms] outbound/vless[proxy]: outbound packet connection to 108.177.14.94:443
-INFO[0060] [1749129612 2ms] outbound/vless[proxy]: outbound packet connection to 108.177.14.94:443
-INFO[0060] [2134372485 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62288
-INFO[0060] [2134372485 0ms] inbound/tun[tun-in]: inbound connection to 3.164.206.24:443
-INFO[0060] [2134372485 0ms] router: found process path: C:\Program Files\Google\Chrome\Application\chrome.exe
-INFO[0060] [2134372485 1ms] outbound/vless[proxy]: outbound connection to 3.164.206.24:443
-INFO[0060] [2134372485 61ms] outbound/vless[proxy]: outbound connection to 3.164.206.24:443
-INFO[0061] [3472951348 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:62811
-INFO[0061] [3472951348 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0061] [3472951348 1ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0061] [3472951348 1ms] outbound/direct[direct]: outbound packet connection
-INFO[0061] [3729635641 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62290
-INFO[0061] [3729635641 0ms] inbound/tun[tun-in]: inbound connection to 3.67.131.16:443
-INFO[0061] [3729635641 1ms] router: found process path: C:\Users\Leon\AppData\Local\slack\app-4.48.102\slack.exe
-INFO[0061] [3729635641 2ms] outbound/vless[proxy]: outbound connection to 3.67.131.16:443
-INFO[0061] [3729635641 76ms] outbound/vless[proxy]: outbound connection to 3.67.131.16:443
-INFO[0065] [3407620462 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:58520
-INFO[0065] [3407620462 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0065] [3407620462 2ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0065] [3407620462 2ms] outbound/direct[direct]: outbound packet connection
-INFO[0065] [2624412368 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:58368
-INFO[0065] [2624412368 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0065] [3879918245 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:50944
-INFO[0065] [3879918245 0ms] inbound/tun[tun-in]: inbound packet connection to 18.159.197.225:443
-INFO[0065] [2624412368 4ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0065] [2624412368 4ms] outbound/direct[direct]: outbound packet connection
-INFO[0065] [3879918245 3ms] router: found process path: C:\Users\Leon\AppData\Local\slack\app-4.48.102\slack.exe
-INFO[0065] [3879918245 3ms] outbound/vless[proxy]: outbound packet connection to 18.159.197.225:443
-INFO[0065] [3879918245 3ms] outbound/vless[proxy]: outbound packet connection to 18.159.197.225:443
-INFO[0065] [1361930946 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62293
-INFO[0065] [1361930946 0ms] inbound/tun[tun-in]: inbound connection to 18.159.197.225:443
-INFO[0065] [1361930946 1ms] router: found process path: C:\Users\Leon\AppData\Local\slack\app-4.48.102\slack.exe
-INFO[0065] [1361930946 1ms] outbound/vless[proxy]: outbound connection to 18.159.197.225:443
-INFO[0065] [1361930946 60ms] outbound/vless[proxy]: outbound connection to 18.159.197.225:443
-INFO[0066] [1129399459 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:53424
-INFO[0066] [1129399459 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0066] [1129399459 2ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0066] [1129399459 2ms] outbound/direct[direct]: outbound packet connection
-INFO[0066] [859386282 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:57135
-INFO[0066] [859386282 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0066] [859386282 4ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0066] [859386282 4ms] outbound/direct[direct]: outbound packet connection
-INFO[0067] [3036809413 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62295
-INFO[0067] [3036809413 0ms] inbound/tun[tun-in]: inbound connection to 31.13.72.5:443
-INFO[0067] [3036809413 2ms] router: found process path: C:\Program Files\Meta Horizon\Support\oculus-remote-desktop\RemoteDesktopCompanion.exe
-INFO[0067] [3036809413 2ms] outbound/direct[bypass]: outbound connection to 31.13.72.5:443
-INFO[0068] [1596124150 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62297
-INFO[0068] [1596124150 0ms] inbound/tun[tun-in]: inbound connection to 213.180.193.226:443
-INFO[0068] [1596124150 2ms] router: found process path: C:\Users\Leon\AppData\Roaming\Yandex\YandexDisk2\3.2.46.5114\YandexDisk2.exe
-INFO[0068] [1596124150 2ms] outbound/direct[direct]: outbound connection to 213.180.193.226:443
-INFO[0072] [3005078936 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:50730
-INFO[0072] [3005078936 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0072] [3005078936 6ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0072] [3005078936 6ms] outbound/direct[direct]: outbound packet connection
-INFO[0074] [1085711857 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62299
-INFO[0074] [1085711857 0ms] inbound/tun[tun-in]: inbound connection to 31.13.72.8:443
-INFO[0074] [1085711857 1ms] router: found process path: C:\Program Files\Meta Horizon\Support\oculus-remote-desktop\RemoteDesktopCompanion.exe
-INFO[0074] [1085711857 1ms] outbound/direct[bypass]: outbound connection to 31.13.72.8:443
-ERROR[0074] [155461754 19.16s] inbound/tun[tun-in]: download: raw-read tcp 192.168.1.59:62285->31.13.72.8:443: An existing connection was forcibly closed by the remote host.
-INFO[0077] [4143351910 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:52447
-INFO[0077] [4143351910 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0077] [4143351910 3ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0077] [4143351910 3ms] outbound/direct[direct]: outbound packet connection
-INFO[0077] [2550270221 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:57878
-INFO[0077] [2550270221 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0077] [2550270221 4ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0077] [2550270221 4ms] outbound/direct[direct]: outbound packet connection
-INFO[0078] [2629720328 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62301
-INFO[0078] [2629720328 0ms] inbound/tun[tun-in]: inbound connection to 8.6.112.6:443
-INFO[0078] [2629720328 1ms] router: found process path: C:\Users\Leon\AppData\Local\Programs\Perplexity\Perplexity.exe
-INFO[0078] [2629720328 1ms] outbound/vless[proxy]: outbound connection to 8.6.112.6:443
-INFO[0078] [2629720328 62ms] outbound/vless[proxy]: outbound connection to 8.6.112.6:443
-INFO[0078] [625292187 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:137
-INFO[0078] [625292187 0ms] inbound/tun[tun-in]: inbound packet connection to 4.175.223.124:137
-INFO[0078] [1278180573 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:62974
-INFO[0078] [1278180573 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0078] [625292187 3ms] router: found process path: :System
-INFO[0078] [1278180573 3ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0078] [1278180573 3ms] outbound/direct[direct]: outbound packet connection
-INFO[0083] [3009007925 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:58397
-INFO[0083] [3009007925 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0083] [3009007925 4ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0083] [3009007925 4ms] outbound/direct[direct]: outbound packet connection
-ERROR[0085] [346558334 48.91s] inbound/tun[tun-in]: download: raw-read tcp 192.168.1.59:62278->31.13.72.5:443: An existing connection was forcibly closed by the remote host.
-ERROR[0085] [1328610089 48.91s] inbound/tun[tun-in]: download: raw-read tcp 192.168.1.59:62279->31.13.72.5:443: An existing connection was forcibly closed by the remote host.
-ERROR[0086] [3036809413 19.17s] inbound/tun[tun-in]: download: raw-read tcp 192.168.1.59:62296->31.13.72.5:443: An existing connection was forcibly closed by the remote host.
-INFO[0087] [3725134944 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62303
-INFO[0087] [3725134944 0ms] inbound/tun[tun-in]: inbound connection to 46.32.184.105:8443
-INFO[0087] [3725134944 1ms] router: found process path: C:\Users\Leon\AppData\Roaming\Telegram Desktop\Telegram.exe
-INFO[0087] [3725134944 1ms] outbound/direct[direct]: outbound connection to 46.32.184.105:8443
-INFO[0090] [537952723 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:61124
-INFO[0090] [537952723 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0090] [537952723 1ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0090] [537952723 1ms] outbound/direct[direct]: outbound packet connection
-INFO[0090] [3810798296 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:52951
-INFO[0090] [3810798296 0ms] inbound/tun[tun-in]: inbound packet connection to 216.239.36.223:443
-INFO[0090] [3810798296 1ms] router: found process path: C:\Program Files\NVIDIA Corporation\NVIDIA app\CEF\NVIDIA Overlay.exe
-INFO[0090] [3810798296 1ms] outbound/direct[bypass]: outbound packet connection
-ERROR[0093] [1085711857 19.16s] inbound/tun[tun-in]: download: raw-read tcp 192.168.1.59:62300->31.13.72.8:443: An existing connection was forcibly closed by the remote host.
-INFO[0094] [3985028182 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:137
-INFO[0094] [3985028182 0ms] inbound/tun[tun-in]: inbound packet connection to 140.82.121.4:137
-INFO[0094] [3985028182 1ms] router: found process path: :System
-INFO[0094] [2731193902 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62309
-INFO[0094] [2731193902 0ms] inbound/tun[tun-in]: inbound connection to 34.149.66.154:443
-INFO[0094] [2731193902 0ms] router: found process path: C:\Program Files\Google\Chrome\Application\chrome.exe
-INFO[0094] [2731193902 0ms] outbound/vless[proxy]: outbound connection to 34.149.66.154:443
-INFO[0094] [2731193902 61ms] outbound/vless[proxy]: outbound connection to 34.149.66.154:443
-INFO[0096] [2119724756 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:59251
-INFO[0096] [2119724756 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0096] [2119724756 7ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0096] [2119724756 7ms] outbound/direct[direct]: outbound packet connection
-INFO[0098] [1453453973 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:57821
-INFO[0098] [1453453973 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0098] [1453453973 2ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0098] [1453453973 2ms] outbound/direct[direct]: outbound packet connection
-INFO[0101] [1245004244 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:54515
-INFO[0101] [1245004244 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0101] [1245004244 6ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0101] [1245004244 6ms] outbound/direct[direct]: outbound packet connection
-INFO[0103] [1154616645 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:50872
-INFO[0103] [1154616645 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0103] [1154616645 3ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0103] [1154616645 3ms] outbound/direct[direct]: outbound packet connection
-INFO[0106] [4011774458 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62311
-INFO[0106] [4011774458 0ms] inbound/tun[tun-in]: inbound connection to 31.13.72.5:443
-INFO[0106] [4011774458 2ms] router: found process path: C:\Program Files\Meta Horizon\Support\oculus-remote-desktop\RemoteDesktopCompanion.exe
-INFO[0106] [4011774458 3ms] outbound/direct[bypass]: outbound connection to 31.13.72.5:443
-INFO[0107] [3680519314 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62313
-INFO[0107] [3680519314 0ms] inbound/tun[tun-in]: inbound connection to 31.13.72.5:443
-INFO[0107] [437001006 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62314
-INFO[0107] [437001006 0ms] inbound/tun[tun-in]: inbound connection to 31.13.72.5:443
-INFO[0107] [3680519314 10ms] router: found process path: C:\Program Files\Meta Horizon\Support\oculus-runtime\OVRServer_x64.exe
-INFO[0107] [3680519314 10ms] outbound/direct[bypass]: outbound connection to 31.13.72.5:443
-INFO[0107] [437001006 10ms] router: found process path: C:\Program Files\Meta Horizon\Support\oculus-runtime\OVRServer_x64.exe
-INFO[0107] [437001006 10ms] outbound/direct[bypass]: outbound connection to 31.13.72.5:443
-INFO[0110] [2230606379 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:54632
-INFO[0110] [2230606379 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0110] [2230606379 6ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0110] [2230606379 7ms] outbound/direct[direct]: outbound packet connection
-INFO[0116] [244740749 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:60064
-INFO[0116] [244740749 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0116] [244740749 1ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0116] [244740749 1ms] outbound/direct[direct]: outbound packet connection
-INFO[0116] [2509814399 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:58199
-INFO[0116] [2509814399 0ms] inbound/tun[tun-in]: inbound packet connection to 64.233.164.198:443
-INFO[0116] [2509814399 1ms] router: found process path: C:\Program Files\Google\Chrome\Application\chrome.exe
-INFO[0116] [2509814399 1ms] outbound/vless[proxy]: outbound packet connection to 64.233.164.198:443
-INFO[0116] [2509814399 1ms] outbound/vless[proxy]: outbound packet connection to 64.233.164.198:443
-INFO[0116] [4251294644 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:56859
-INFO[0116] [4251294644 0ms] inbound/tun[tun-in]: inbound packet connection to 142.250.150.94:443
-INFO[0116] [4251294644 5ms] router: found process path: C:\Program Files\Google\Chrome\Application\chrome.exe
-INFO[0116] [4251294644 6ms] outbound/vless[proxy]: outbound packet connection to 142.250.150.94:443
-INFO[0116] [4251294644 6ms] outbound/vless[proxy]: outbound packet connection to 142.250.150.94:443
-INFO[0119] [3908676982 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:50675
-INFO[0119] [3908676982 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0119] [3908676982 2ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0119] [3908676982 2ms] outbound/direct[direct]: outbound packet connection
-INFO[0120] [2162581334 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:55106
-INFO[0120] [2162581334 0ms] inbound/tun[tun-in]: inbound packet connection to 142.250.150.94:443
-INFO[0120] [1433170626 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62319
-INFO[0120] [1433170626 0ms] inbound/tun[tun-in]: inbound connection to 142.250.150.94:443
-INFO[0120] [1433170626 0ms] router: found process path: C:\Program Files\Google\Chrome\Application\chrome.exe
-INFO[0120] [1433170626 0ms] outbound/vless[proxy]: outbound connection to 142.250.150.94:443
-INFO[0120] [2162581334 1ms] router: found process path: C:\Program Files\Google\Chrome\Application\chrome.exe
-INFO[0120] [2162581334 1ms] outbound/vless[proxy]: outbound packet connection to 142.250.150.94:443
-INFO[0120] [2162581334 1ms] outbound/vless[proxy]: outbound packet connection to 142.250.150.94:443
-INFO[0120] [1433170626 60ms] outbound/vless[proxy]: outbound connection to 142.250.150.94:443
-INFO[0122] [2666807610 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62322
-INFO[0122] [2666807610 0ms] inbound/tun[tun-in]: inbound connection to 46.32.184.105:8443
-INFO[0122] [3222763754 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62323
-INFO[0122] [3222763754 0ms] inbound/tun[tun-in]: inbound connection to 46.32.184.105:8443
-INFO[0122] [1840614058 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62324
-INFO[0122] [1840614058 0ms] inbound/tun[tun-in]: inbound connection to 46.32.184.105:8443
-INFO[0122] [3222763754 1ms] router: found process path: C:\Users\Leon\AppData\Roaming\Telegram Desktop\Telegram.exe
-INFO[0122] [3887111448 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62325
-INFO[0122] [3887111448 0ms] inbound/tun[tun-in]: inbound connection to 46.32.184.105:8443
-INFO[0122] [3222763754 1ms] outbound/direct[direct]: outbound connection to 46.32.184.105:8443
-INFO[0122] [2666807610 2ms] router: found process path: C:\Users\Leon\AppData\Roaming\Telegram Desktop\Telegram.exe
-INFO[0122] [2666807610 2ms] outbound/direct[direct]: outbound connection to 46.32.184.105:8443
-INFO[0122] [2928371520 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62326
-INFO[0122] [2928371520 0ms] inbound/tun[tun-in]: inbound connection to 46.32.184.105:8443
-INFO[0122] [2683949695 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62327
-INFO[0122] [2683949695 0ms] inbound/tun[tun-in]: inbound connection to 46.32.184.105:8443
-INFO[0122] [1840614058 1ms] router: found process path: C:\Users\Leon\AppData\Roaming\Telegram Desktop\Telegram.exe
-INFO[0122] [1840614058 1ms] outbound/direct[direct]: outbound connection to 46.32.184.105:8443
-INFO[0122] [3887111448 0ms] router: found process path: C:\Users\Leon\AppData\Roaming\Telegram Desktop\Telegram.exe
-INFO[0122] [3887111448 0ms] outbound/direct[direct]: outbound connection to 46.32.184.105:8443
-INFO[0122] [2683949695 1ms] router: found process path: C:\Users\Leon\AppData\Roaming\Telegram Desktop\Telegram.exe
-INFO[0122] [2683949695 1ms] outbound/direct[direct]: outbound connection to 46.32.184.105:8443
-INFO[0122] [2928371520 1ms] router: found process path: C:\Users\Leon\AppData\Roaming\Telegram Desktop\Telegram.exe
-INFO[0122] [2928371520 1ms] outbound/direct[direct]: outbound connection to 46.32.184.105:8443
-INFO[0125] [2578175470 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:54512
-INFO[0125] [2578175470 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0125] [2578175470 2ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0125] [2578175470 2ms] outbound/direct[direct]: outbound packet connection
-ERROR[0125] [4011774458 19.17s] inbound/tun[tun-in]: download: raw-read tcp 192.168.1.59:62312->31.13.72.5:443: An existing connection was forcibly closed by the remote host.
-INFO[0134] [1726784802 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:65136
-INFO[0134] [1726784802 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0134] [1726784802 4ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0134] [1726784802 4ms] outbound/direct[direct]: outbound packet connection
-INFO[0134] [1014055284 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62336
-INFO[0134] [1014055284 0ms] inbound/tun[tun-in]: inbound connection to 46.32.184.105:8443
-INFO[0134] [1014055284 1ms] router: found process path: C:\Users\Leon\AppData\Roaming\Telegram Desktop\Telegram.exe
-INFO[0134] [1014055284 1ms] outbound/direct[direct]: outbound connection to 46.32.184.105:8443
-INFO[0136] [3090415621 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:137
-INFO[0136] [3090415621 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:137
-INFO[0136] [3721400698 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:56478
-INFO[0136] [3721400698 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0136] [3090415621 2ms] router: found process path: :System
-INFO[0136] [3090415621 2ms] outbound/direct[direct]: outbound packet connection
-INFO[0136] [3721400698 3ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0136] [3721400698 3ms] outbound/direct[direct]: outbound packet connection
-INFO[0140] [3862744089 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:62173
-INFO[0140] [3862744089 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0140] [3862744089 3ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0140] [3862744089 3ms] outbound/direct[direct]: outbound packet connection
-INFO[0144] [3488442160 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:55069
-INFO[0144] [3488442160 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0144] [3488442160 6ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0144] [3488442160 6ms] outbound/direct[direct]: outbound packet connection
-INFO[0145] [2216559231 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:61440
-INFO[0145] [2216559231 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0145] [3613759566 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62338
-INFO[0145] [3613759566 0ms] inbound/tun[tun-in]: inbound connection to 31.13.72.8:443
-INFO[0145] [3613759566 5ms] router: found process path: C:\Program Files\Meta Horizon\Support\oculus-remote-desktop\RemoteDesktopCompanion.exe
-INFO[0145] [3613759566 5ms] outbound/direct[bypass]: outbound connection to 31.13.72.8:443
-INFO[0145] [2216559231 7ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0145] [2216559231 7ms] outbound/direct[direct]: outbound packet connection
-INFO[0145] [98032138 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62340
-INFO[0145] [98032138 0ms] inbound/tun[tun-in]: inbound connection to 31.13.72.5:443
-INFO[0145] [98032138 1ms] router: found process path: C:\Program Files\Meta Horizon\Support\oculus-remote-desktop\RemoteDesktopCompanion.exe
-INFO[0145] [98032138 1ms] outbound/direct[bypass]: outbound connection to 31.13.72.5:443
-INFO[0147] [2898837352 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:60216
-INFO[0147] [2898837352 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0147] [2898837352 3ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0147] [2898837352 3ms] outbound/direct[direct]: outbound packet connection
-INFO[0151] [3852190530 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:137
-INFO[0151] [3852190530 0ms] inbound/tun[tun-in]: inbound packet connection to 46.32.186.250:137
-INFO[0151] [3852190530 3ms] router: found process path: :System
-INFO[0156] [796004963 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:56794
-INFO[0156] [796004963 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0156] [796004963 6ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0156] [796004963 6ms] outbound/direct[direct]: outbound packet connection
-INFO[0156] [2278611826 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:61006
-INFO[0156] [2278611826 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0156] [2278611826 1ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0156] [2278611826 1ms] outbound/direct[direct]: outbound packet connection
-ERROR[0156] [437001006 48.91s] inbound/tun[tun-in]: download: raw-read tcp 192.168.1.59:62316->31.13.72.5:443: An existing connection was forcibly closed by the remote host.
-ERROR[0156] [3680519314 48.91s] inbound/tun[tun-in]: download: raw-read tcp 192.168.1.59:62315->31.13.72.5:443: An existing connection was forcibly closed by the remote host.
-INFO[0163] [3527875904 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:51825
-INFO[0163] [3527875904 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0163] [3527875904 3ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0163] [3527875904 3ms] outbound/direct[direct]: outbound packet connection
-ERROR[0164] [3613759566 19.17s] inbound/tun[tun-in]: download: raw-read tcp 192.168.1.59:62339->31.13.72.8:443: An existing connection was forcibly closed by the remote host.
-ERROR[0164] [98032138 19.17s] inbound/tun[tun-in]: download: raw-read tcp 192.168.1.59:62341->31.13.72.5:443: An existing connection was forcibly closed by the remote host.
-INFO[0167] [2951515600 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:61888
-INFO[0167] [2951515600 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0167] [2951515600 4ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0167] [2951515600 4ms] outbound/direct[direct]: outbound packet connection
-INFO[0167] [16595474 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62343
-INFO[0167] [16595474 0ms] inbound/tun[tun-in]: inbound connection to 157.240.253.17:443
-INFO[0167] [1334777165 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62342
-INFO[0167] [1334777165 0ms] inbound/tun[tun-in]: inbound connection to 157.240.253.17:443
-INFO[0167] [16595474 5ms] router: found process path: C:\Program Files\Meta Horizon\Support\oculus-runtime\OVRServer_x64.exe
-INFO[0167] [16595474 5ms] outbound/direct[bypass]: outbound connection to 157.240.253.17:443
-INFO[0167] [1334777165 6ms] router: found process path: C:\Program Files\Meta Horizon\Support\oculus-runtime\OVRServer_x64.exe
-INFO[0167] [1334777165 6ms] outbound/direct[bypass]: outbound connection to 157.240.253.17:443
-INFO[0175] [549551481 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:54669
-INFO[0175] [549551481 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0175] [549551481 3ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0175] [549551481 3ms] outbound/direct[direct]: outbound packet connection
-INFO[0176] [2716659782 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:63603
-INFO[0176] [2716659782 0ms] inbound/tun[tun-in]: inbound packet connection to 64.233.164.198:443
-INFO[0176] [2716659782 1ms] router: found process path: C:\Program Files\Google\Chrome\Application\chrome.exe
-INFO[0176] [2716659782 1ms] outbound/vless[proxy]: outbound packet connection to 64.233.164.198:443
-INFO[0176] [2716659782 1ms] outbound/vless[proxy]: outbound packet connection to 64.233.164.198:443
-INFO[0176] [3341013347 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:137
-INFO[0176] [3341013347 0ms] inbound/tun[tun-in]: inbound packet connection to 188.253.19.23:137
-INFO[0176] [3341013347 2ms] router: found process path: :System
-INFO[0178] [452043499 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:59246
-INFO[0178] [452043499 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0178] [452043499 5ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0178] [452043499 5ms] outbound/direct[direct]: outbound packet connection
-INFO[0181] [288843427 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:60180
-INFO[0181] [288843427 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0181] [288843427 1ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0181] [288843427 1ms] outbound/direct[direct]: outbound packet connection
-INFO[0184] [3710633411 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62347
-INFO[0184] [3710633411 0ms] inbound/tun[tun-in]: inbound connection to 31.13.72.5:443
-INFO[0184] [771588747 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:54773
-INFO[0184] [771588747 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0184] [3710633411 2ms] router: found process path: C:\Program Files\Meta Horizon\Support\oculus-remote-desktop\RemoteDesktopCompanion.exe
-INFO[0184] [3710633411 3ms] outbound/direct[bypass]: outbound connection to 31.13.72.5:443
-INFO[0184] [771588747 6ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0184] [771588747 6ms] outbound/direct[direct]: outbound packet connection
-INFO[0192] [2128485158 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:137
-INFO[0192] [2128485158 0ms] inbound/tun[tun-in]: inbound packet connection to 46.32.184.105:137
-INFO[0192] [569359555 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:52876
-INFO[0192] [569359555 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0192] [2128485158 5ms] router: found process path: :System
-INFO[0192] [569359555 5ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0192] [569359555 5ms] outbound/direct[direct]: outbound packet connection
-INFO[0194] [2666182250 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62349
-INFO[0194] [2666182250 0ms] inbound/tun[tun-in]: inbound connection to 31.13.72.8:443
-INFO[0194] [2666182250 1ms] router: found process path: C:\Program Files\Meta Horizon\Support\oculus-remote-desktop\RemoteDesktopCompanion.exe
-INFO[0194] [2666182250 1ms] outbound/direct[bypass]: outbound connection to 31.13.72.8:443
-INFO[0195] [2622263958 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:53894
-INFO[0195] [2622263958 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0195] [2622263958 6ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0195] [2622263958 6ms] outbound/direct[direct]: outbound packet connection
-INFO[0196] [2211149236 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62351
-INFO[0196] [2211149236 0ms] inbound/tun[tun-in]: inbound connection to 46.32.184.105:8443
-INFO[0196] [2211149236 2ms] router: found process path: C:\Users\Leon\AppData\Roaming\Telegram Desktop\Telegram.exe
-INFO[0196] [2211149236 2ms] outbound/direct[direct]: outbound connection to 46.32.184.105:8443
-INFO[0197] [393608627 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:60546
-INFO[0197] [393608627 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0197] [393608627 4ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0197] [393608627 4ms] outbound/direct[direct]: outbound packet connection
-INFO[0203] [2930270420 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:62057
-INFO[0203] [2930270420 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0203] [2930270420 6ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0203] [2930270420 6ms] outbound/direct[direct]: outbound packet connection
-ERROR[0203] [3710633411 19.17s] inbound/tun[tun-in]: download: raw-read tcp 192.168.1.59:62348->31.13.72.5:443: An existing connection was forcibly closed by the remote host.
-INFO[0206] [1489472689 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:52674
-INFO[0206] [1489472689 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0206] [1489472689 2ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0206] [1489472689 2ms] outbound/direct[direct]: outbound packet connection
-INFO[0208] [1209899203 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:63912
-INFO[0208] [1209899203 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0208] [1209899203 3ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0208] [1209899203 3ms] outbound/direct[direct]: outbound packet connection
-ERROR[0213] [2666182250 19.17s] inbound/tun[tun-in]: download: raw-read tcp 192.168.1.59:62350->31.13.72.8:443: An existing connection was forcibly closed by the remote host.
-INFO[0213] [2759235807 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:57311
-INFO[0213] [2759235807 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0213] [2759235807 3ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0213] [2759235807 3ms] outbound/direct[direct]: outbound packet connection
-INFO[0214] [70166027 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62357
-INFO[0214] [70166027 0ms] inbound/tun[tun-in]: inbound connection to 46.32.184.105:8443
-INFO[0214] [2802140780 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62358
-INFO[0214] [2802140780 0ms] inbound/tun[tun-in]: inbound connection to 46.32.184.105:8443
-INFO[0214] [1712728129 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62360
-INFO[0214] [1712728129 0ms] inbound/tun[tun-in]: inbound connection to 46.32.184.105:8443
-INFO[0214] [2077815449 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62359
-INFO[0214] [2077815449 0ms] inbound/tun[tun-in]: inbound connection to 46.32.184.105:8443
-INFO[0214] [70166027 7ms] router: found process path: C:\Users\Leon\AppData\Roaming\Telegram Desktop\Telegram.exe
-INFO[0214] [70166027 8ms] outbound/direct[direct]: outbound connection to 46.32.184.105:8443
-INFO[0214] [2802140780 8ms] router: found process path: C:\Users\Leon\AppData\Roaming\Telegram Desktop\Telegram.exe
-INFO[0214] [2802140780 8ms] outbound/direct[direct]: outbound connection to 46.32.184.105:8443
-INFO[0214] [2077815449 8ms] router: found process path: C:\Users\Leon\AppData\Roaming\Telegram Desktop\Telegram.exe
-INFO[0214] [2077815449 8ms] outbound/direct[direct]: outbound connection to 46.32.184.105:8443
-INFO[0214] [1712728129 8ms] router: found process path: C:\Users\Leon\AppData\Roaming\Telegram Desktop\Telegram.exe
-INFO[0214] [1712728129 8ms] outbound/direct[direct]: outbound connection to 46.32.184.105:8443
-INFO[0214] [3963740603 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62362
-INFO[0214] [3963740603 0ms] inbound/tun[tun-in]: inbound connection to 46.32.184.105:8443
-INFO[0214] [1632125565 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62366
-INFO[0214] [1632125565 0ms] inbound/tun[tun-in]: inbound connection to 46.32.184.105:8443
-INFO[0214] [3963740603 2ms] router: found process path: C:\Users\Leon\AppData\Roaming\Telegram Desktop\Telegram.exe
-INFO[0214] [3963740603 2ms] outbound/direct[direct]: outbound connection to 46.32.184.105:8443
-INFO[0214] [1632125565 2ms] router: found process path: C:\Users\Leon\AppData\Roaming\Telegram Desktop\Telegram.exe
-INFO[0214] [1632125565 3ms] outbound/direct[direct]: outbound connection to 46.32.184.105:8443
-INFO[0215] [56151109 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:65394
-INFO[0215] [56151109 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0215] [56151109 5ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0215] [56151109 5ms] outbound/direct[direct]: outbound packet connection
-ERROR[0216] [1334777165 48.91s] inbound/tun[tun-in]: download: raw-read tcp 192.168.1.59:62345->157.240.253.17:443: An existing connection was forcibly closed by the remote host.
-ERROR[0216] [16595474 48.91s] inbound/tun[tun-in]: download: raw-read tcp 192.168.1.59:62344->157.240.253.17:443: An existing connection was forcibly closed by the remote host.
-INFO[0226] [2235047586 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:64528
-INFO[0226] [1378299480 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62369
-INFO[0226] [1378299480 0ms] inbound/tun[tun-in]: inbound connection to 31.13.72.5:443
-INFO[0226] [2235047586 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0226] [1378299480 2ms] router: found process path: C:\Program Files\Meta Horizon\Support\oculus-remote-desktop\RemoteDesktopCompanion.exe
-INFO[0226] [1378299480 2ms] outbound/direct[bypass]: outbound connection to 31.13.72.5:443
-INFO[0226] [2235047586 4ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0226] [2235047586 4ms] outbound/direct[direct]: outbound packet connection
-INFO[0227] [1037074366 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62372
-INFO[0227] [1037074366 0ms] inbound/tun[tun-in]: inbound connection to 31.13.72.5:443
-INFO[0227] [630729321 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62371
-INFO[0227] [630729321 0ms] inbound/tun[tun-in]: inbound connection to 31.13.72.5:443
-INFO[0227] [1037074366 6ms] router: found process path: C:\Program Files\Meta Horizon\Support\oculus-runtime\OVRServer_x64.exe
-INFO[0227] [630729321 6ms] router: found process path: C:\Program Files\Meta Horizon\Support\oculus-runtime\OVRServer_x64.exe
-INFO[0227] [1037074366 6ms] outbound/direct[bypass]: outbound connection to 31.13.72.5:443
-INFO[0227] [630729321 6ms] outbound/direct[bypass]: outbound connection to 31.13.72.5:443
-INFO[0228] [1248740653 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:59723
-INFO[0228] [1248740653 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0228] [1248740653 1ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0228] [1248740653 1ms] outbound/direct[direct]: outbound packet connection
-INFO[0229] [1393325111 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:60646
-INFO[0229] [1393325111 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0229] [1393325111 1ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0229] [1393325111 1ms] outbound/direct[direct]: outbound packet connection
-INFO[0236] [1932024145 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:55640
-INFO[0236] [1932024145 0ms] inbound/tun[tun-in]: inbound packet connection to 64.233.164.198:443
-INFO[0236] [1932024145 2ms] router: found process path: C:\Program Files\Google\Chrome\Application\chrome.exe
-INFO[0236] [1932024145 2ms] outbound/vless[proxy]: outbound packet connection to 64.233.164.198:443
-INFO[0236] [1932024145 2ms] outbound/vless[proxy]: outbound packet connection to 64.233.164.198:443
-INFO[0236] [2766131041 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:57953
-INFO[0236] [2766131041 0ms] inbound/tun[tun-in]: inbound packet connection to 142.250.150.94:443
-INFO[0236] [2766131041 1ms] router: found process path: C:\Program Files\Google\Chrome\Application\chrome.exe
-INFO[0236] [2766131041 1ms] outbound/vless[proxy]: outbound packet connection to 142.250.150.94:443
-INFO[0236] [2766131041 1ms] outbound/vless[proxy]: outbound packet connection to 142.250.150.94:443
-INFO[0237] [2744286288 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:52148
-INFO[0237] [2744286288 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0237] [2744286288 4ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0237] [2744286288 4ms] outbound/direct[direct]: outbound packet connection
-INFO[0240] [3599303641 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:55508
-INFO[0240] [3599303641 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0240] [3599303641 5ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0240] [3599303641 5ms] outbound/direct[direct]: outbound packet connection
-INFO[0240] [3650498779 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:137
-INFO[0240] [3650498779 0ms] inbound/tun[tun-in]: inbound packet connection to 142.250.150.94:137
-INFO[0240] [676778459 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:58057
-INFO[0240] [676778459 0ms] inbound/tun[tun-in]: inbound packet connection to 142.250.150.94:443
-INFO[0240] [1668959288 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62377
-INFO[0240] [1668959288 0ms] inbound/tun[tun-in]: inbound connection to 142.250.150.94:443
-INFO[0240] [3650498779 3ms] router: found process path: :System
-INFO[0240] [1668959288 0ms] router: found process path: C:\Program Files\Google\Chrome\Application\chrome.exe
-INFO[0240] [1668959288 0ms] outbound/vless[proxy]: outbound connection to 142.250.150.94:443
-INFO[0240] [676778459 3ms] router: found process path: C:\Program Files\Google\Chrome\Application\chrome.exe
-INFO[0240] [676778459 3ms] outbound/vless[proxy]: outbound packet connection to 142.250.150.94:443
-INFO[0240] [676778459 3ms] outbound/vless[proxy]: outbound packet connection to 142.250.150.94:443
-INFO[0240] [1668959288 60ms] outbound/vless[proxy]: outbound connection to 142.250.150.94:443
-INFO[0241] [661329045 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:50841
-INFO[0241] [661329045 0ms] inbound/tun[tun-in]: inbound packet connection to 142.250.150.94:443
-INFO[0241] [661329045 1ms] router: found process path: C:\Program Files\Google\Chrome\Application\chrome.exe
-INFO[0241] [661329045 1ms] outbound/vless[proxy]: outbound packet connection to 142.250.150.94:443
-INFO[0241] [661329045 1ms] outbound/vless[proxy]: outbound packet connection to 142.250.150.94:443
-INFO[0241] [1646653283 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:64181
-INFO[0241] [1646653283 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0241] [1646653283 2ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0241] [1646653283 2ms] outbound/direct[direct]: outbound packet connection
-INFO[0241] [2877323287 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62381
-INFO[0241] [2877323287 0ms] inbound/tun[tun-in]: inbound connection to 34.51.10.38:443
-INFO[0241] [2877323287 0ms] router: found process path: C:\Program Files\Google\Chrome\Application\chrome.exe
-INFO[0241] [2877323287 0ms] outbound/vless[proxy]: outbound connection to 34.51.10.38:443
-INFO[0241] [2877323287 59ms] outbound/vless[proxy]: outbound connection to 34.51.10.38:443
-INFO[0243] [1959551512 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:60611
-INFO[0243] [1959551512 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0243] [1959551512 1ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0243] [1959551512 1ms] outbound/direct[direct]: outbound packet connection
-INFO[0245] [2925019090 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:58756
-INFO[0245] [2925019090 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0245] [2925019090 1ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0245] [2925019090 1ms] outbound/direct[direct]: outbound packet connection
-ERROR[0245] [1378299480 19.16s] inbound/tun[tun-in]: download: raw-read tcp 192.168.1.59:62370->31.13.72.5:443: An existing connection was forcibly closed by the remote host.
-INFO[0246] [147715077 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:53987
-INFO[0246] [147715077 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0246] [147715077 1ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0246] [147715077 1ms] outbound/direct[direct]: outbound packet connection
-INFO[0247] [943571258 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:50263
-INFO[0247] [943571258 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0247] [943571258 2ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0247] [943571258 2ms] outbound/direct[direct]: outbound packet connection
-INFO[0248] [3802771237 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:60204
-INFO[0248] [3802771237 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0248] [1847498461 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:57239
-INFO[0248] [1847498461 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0248] [4039669911 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:64095
-INFO[0248] [4039669911 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0248] [3802771237 2ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0248] [3802771237 2ms] outbound/direct[direct]: outbound packet connection
-INFO[0248] [4039669911 2ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0248] [4039669911 2ms] outbound/direct[direct]: outbound packet connection
-INFO[0248] [1847498461 2ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0248] [1847498461 2ms] outbound/direct[direct]: outbound packet connection
-INFO[0248] [2789044883 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:52606
-INFO[0248] [2789044883 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0248] [2789044883 1ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0248] [2789044883 1ms] outbound/direct[direct]: outbound packet connection
-INFO[0252] [771879593 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:60657
-INFO[0252] [771879593 0ms] inbound/tun[tun-in]: inbound packet connection to 162.159.128.233:443
-INFO[0252] [771879593 2ms] router: found process path: C:\Users\Leon\AppData\Local\Discord\app-1.0.9230\Discord.exe
-INFO[0252] [771879593 2ms] outbound/vless[proxy]: outbound packet connection to 162.159.128.233:443
-INFO[0252] [771879593 2ms] outbound/vless[proxy]: outbound packet connection to 162.159.128.233:443
-INFO[0253] [4054412529 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:57250
-INFO[0253] [4054412529 0ms] inbound/tun[tun-in]: inbound packet connection to 216.239.36.223:443
-INFO[0253] [4054412529 1ms] router: found process path: C:\Program Files\Google\Chrome\Application\chrome.exe
-INFO[0253] [4054412529 1ms] outbound/vless[proxy]: outbound packet connection to 216.239.36.223:443
-INFO[0253] [4054412529 1ms] outbound/vless[proxy]: outbound packet connection to 216.239.36.223:443
-INFO[0254] [208222884 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:55822
-INFO[0254] [208222884 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0254] [208222884 2ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0254] [208222884 2ms] outbound/direct[direct]: outbound packet connection
-INFO[0254] [1281640250 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:60509
-INFO[0254] [1281640250 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0254] [1281640250 2ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0254] [1281640250 2ms] outbound/direct[direct]: outbound packet connection
-INFO[0256] [151997934 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:52421
-INFO[0256] [151997934 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0256] [151997934 5ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0256] [151997934 5ms] outbound/direct[direct]: outbound packet connection
-INFO[0257] [1159726594 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:63633
-INFO[0257] [1159726594 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0257] [1159726594 3ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0257] [1159726594 3ms] outbound/direct[direct]: outbound packet connection
-INFO[0257] [3304444443 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62394
-INFO[0257] [3304444443 0ms] inbound/tun[tun-in]: inbound connection to 18.159.197.225:443
-INFO[0257] [3304444443 1ms] router: found process path: C:\Users\Leon\AppData\Local\slack\app-4.48.102\slack.exe
-INFO[0257] [3304444443 1ms] outbound/vless[proxy]: outbound connection to 18.159.197.225:443
-INFO[0257] [3304444443 63ms] outbound/vless[proxy]: outbound connection to 18.159.197.225:443
-INFO[0258] [3302188494 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:51017
-INFO[0258] [3302188494 0ms] inbound/tun[tun-in]: inbound packet connection to 142.251.151.119:443
-INFO[0258] [3302188494 2ms] router: found process path: C:\Program Files\Google\Chrome\Application\chrome.exe
-INFO[0258] [3302188494 2ms] outbound/vless[proxy]: outbound packet connection to 142.251.151.119:443
-INFO[0258] [3302188494 2ms] outbound/vless[proxy]: outbound packet connection to 142.251.151.119:443
-INFO[0258] [92215160 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:62259
-INFO[0258] [92215160 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0258] [92215160 1ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0258] [92215160 1ms] outbound/direct[direct]: outbound packet connection
-INFO[0259] [2782398127 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:49239
-INFO[0259] [2782398127 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0259] [2782398127 0ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0259] [2782398127 0ms] outbound/direct[direct]: outbound packet connection
-INFO[0259] [2385639956 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:53760
-INFO[0259] [2385639956 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0259] [2385639956 1ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0259] [2385639956 1ms] outbound/direct[direct]: outbound packet connection
-INFO[0259] [2841324532 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:57820
-INFO[0259] [2841324532 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0259] [2841324532 2ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0259] [2841324532 2ms] outbound/direct[direct]: outbound packet connection
-INFO[0259] [3703161697 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:57658
-INFO[0259] [3703161697 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0259] [3703161697 1ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0259] [3703161697 1ms] outbound/direct[direct]: outbound packet connection
-INFO[0259] [1809018191 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:58181
-INFO[0259] [1809018191 0ms] inbound/tun[tun-in]: inbound packet connection to 216.239.36.223:443
-INFO[0259] [1809018191 1ms] router: found process path: C:\Program Files\NVIDIA Corporation\NVIDIA app\CEF\NVIDIA Overlay.exe
-INFO[0259] [1809018191 1ms] outbound/direct[bypass]: outbound packet connection
-INFO[0259] [2213149759 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:57865
-INFO[0259] [2213149759 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0259] [2213149759 1ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0259] [2213149759 1ms] outbound/direct[direct]: outbound packet connection
-INFO[0259] [3735738872 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:51276
-INFO[0259] [3735738872 0ms] inbound/tun[tun-in]: inbound packet connection to 64.233.162.95:443
-INFO[0259] [3147639201 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62397
-INFO[0259] [3147639201 0ms] inbound/tun[tun-in]: inbound connection to 140.82.121.5:443
-INFO[0259] [1292643577 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62398
-INFO[0259] [1292643577 0ms] inbound/tun[tun-in]: inbound connection to 140.82.114.21:443
-INFO[0259] [1292643577 2ms] router: found process path: C:\Program Files\Google\Chrome\Application\chrome.exe
-INFO[0259] [3147639201 2ms] router: found process path: C:\Program Files\Google\Chrome\Application\chrome.exe
-INFO[0259] [1292643577 2ms] outbound/vless[proxy]: outbound connection to 140.82.114.21:443
-INFO[0259] [3147639201 2ms] outbound/vless[proxy]: outbound connection to 140.82.121.5:443
-INFO[0259] [3735738872 3ms] router: found process path: C:\Program Files\Google\Chrome\Application\chrome.exe
-INFO[0259] [3735738872 3ms] outbound/vless[proxy]: outbound packet connection to 64.233.162.95:443
-INFO[0259] [3735738872 3ms] outbound/vless[proxy]: outbound packet connection to 64.233.162.95:443
-INFO[0259] [1117243968 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62402
-INFO[0259] [1117243968 0ms] inbound/tun[tun-in]: inbound connection to 147.135.242.128:443
-INFO[0259] [1117243968 1ms] router: found process path: C:\Program Files\Google\Chrome\Application\chrome.exe
-INFO[0259] [1117243968 1ms] outbound/direct[direct]: outbound connection to 147.135.242.128:443
-INFO[0259] [1292643577 64ms] outbound/vless[proxy]: outbound connection to 140.82.114.21:443
-INFO[0259] [3147639201 67ms] outbound/vless[proxy]: outbound connection to 140.82.121.5:443
-INFO[0260] [708954457 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:60508
-INFO[0260] [708954457 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0260] [708954457 1ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0260] [708954457 1ms] outbound/direct[direct]: outbound packet connection
-INFO[0260] [3093089390 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:59086
-INFO[0260] [3093089390 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0260] [3093089390 1ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0260] [3093089390 1ms] outbound/direct[direct]: outbound packet connection
-INFO[0262] [1199577082 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:51374
-INFO[0262] [1199577082 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0262] [1199577082 1ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0262] [1199577082 1ms] outbound/direct[direct]: outbound packet connection
-INFO[0262] [1020550665 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:53285
-INFO[0262] [1020550665 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0262] [1020550665 1ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0262] [1020550665 1ms] outbound/direct[direct]: outbound packet connection
-INFO[0262] [933009854 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:50085
-INFO[0262] [933009854 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0262] [933009854 1ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0262] [933009854 1ms] outbound/direct[direct]: outbound packet connection
-INFO[0262] [3197764418 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:64216
-INFO[0262] [3197764418 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0262] [3197764418 1ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0262] [3197764418 1ms] outbound/direct[direct]: outbound packet connection
-INFO[0263] [1973528256 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:53832
-INFO[0263] [742167507 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:64226
-INFO[0263] [742167507 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0263] [1973528256 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0263] [742167507 3ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0263] [742167507 3ms] outbound/direct[direct]: outbound packet connection
-INFO[0263] [1973528256 3ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0263] [1973528256 3ms] outbound/direct[direct]: outbound packet connection
-INFO[0263] [1789036035 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:50995
-INFO[0263] [1789036035 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0263] [1789036035 1ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0263] [1789036035 1ms] outbound/direct[direct]: outbound packet connection
-INFO[0264] [4118671542 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:53629
-INFO[0264] [4118671542 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
-INFO[0264] [4118671542 1ms] router: found process path: C:\Windows\System32\svchost.exe
-INFO[0264] [4118671542 1ms] outbound/direct[direct]: outbound packet connection
-INFO[0265] [3431253008 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62404
-INFO[0265] [3431253008 0ms] inbound/tun[tun-in]: inbound connection to 31.13.72.8:443
-INFO[0265] [3431253008 1ms] router: found process path: C:\Program Files\Meta Horizon\Support\oculus-remote-desktop\RemoteDesktopCompanion.exe
+ompanion.exe
 INFO[0265] [3431253008 2ms] outbound/direct[bypass]: outbound connection to 31.13.72.8:443
 INFO[0265] [2409992918 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:50963
 INFO[0265] [2409992918 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
@@ -1355,3 +524,886 @@ INFO[0388] [1083933999 2ms] router: found process path: C:\Program Files\Meta Ho
 INFO[0388] [1083933999 2ms] outbound/direct[bypass]: outbound connection to 31.13.72.5:443
 INFO[0388] [2782856807 3ms] router: found process path: C:\Windows\System32\svchost.exe
 INFO[0388] [2782856807 3ms] outbound/direct[direct]: outbound packet connection
+2026/03/28 18:30:01 nekobox_core grpc server listening at 127.0.0.1:62550
+2026/03/28 18:37:12 nekobox_core grpc server listening at 127.0.0.1:62768
+INFO[0000] [2514763516 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:49914
+INFO[0000] [2514763516 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0000] [2514763516 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0000] [2514763516 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0000] [663799095 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:55748
+INFO[0000] [663799095 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0000] [663799095 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0000] [663799095 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0000] [3778221379 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:62452
+INFO[0000] [3778221379 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0000] [3778221379 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0000] [3778221379 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0001] [3271493965 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:52385
+INFO[0001] [3271493965 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0001] [3271493965 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0001] [3271493965 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0001] [307089105 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:62022
+INFO[0001] [307089105 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0001] [307089105 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0001] [307089105 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0006] [884240278 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62771
+INFO[0006] [205991054 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62772
+INFO[0006] [884240278 0ms] inbound/tun[tun-in]: inbound connection to 46.32.184.105:8443
+INFO[0006] [205991054 0ms] inbound/tun[tun-in]: inbound connection to 46.32.184.105:8443
+INFO[0006] [4054095656 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62774
+INFO[0006] [4054095656 0ms] inbound/tun[tun-in]: inbound connection to 46.32.184.105:8443
+INFO[0006] [3072010369 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62773
+INFO[0006] [3072010369 0ms] inbound/tun[tun-in]: inbound connection to 46.32.184.105:8443
+INFO[0006] [1854499422 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62775
+INFO[0006] [1854499422 0ms] inbound/tun[tun-in]: inbound connection to 46.32.184.105:8443
+INFO[0006] [884240278 1ms] router: found process path: C:\Users\Leon\AppData\Roaming\Telegram Desktop\Telegram.exe
+INFO[0006] [884240278 1ms] outbound/direct[direct]: outbound connection to 46.32.184.105:8443
+INFO[0006] [205991054 1ms] router: found process path: C:\Users\Leon\AppData\Roaming\Telegram Desktop\Telegram.exe
+INFO[0006] [205991054 1ms] outbound/direct[direct]: outbound connection to 46.32.184.105:8443
+INFO[0006] [4054095656 2ms] router: found process path: C:\Users\Leon\AppData\Roaming\Telegram Desktop\Telegram.exe
+INFO[0006] [3072010369 2ms] router: found process path: C:\Users\Leon\AppData\Roaming\Telegram Desktop\Telegram.exe
+INFO[0006] [4054095656 2ms] outbound/direct[direct]: outbound connection to 46.32.184.105:8443
+INFO[0006] [3072010369 2ms] outbound/direct[direct]: outbound connection to 46.32.184.105:8443
+INFO[0006] [1854499422 2ms] router: found process path: C:\Users\Leon\AppData\Roaming\Telegram Desktop\Telegram.exe
+INFO[0006] [1854499422 2ms] outbound/direct[direct]: outbound connection to 46.32.184.105:8443
+INFO[0006] [1693796120 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62781
+INFO[0006] [1693796120 0ms] inbound/tun[tun-in]: inbound connection to 46.32.184.105:8443
+INFO[0006] [1693796120 1ms] router: found process path: C:\Users\Leon\AppData\Roaming\Telegram Desktop\Telegram.exe
+INFO[0006] [1693796120 1ms] outbound/direct[direct]: outbound connection to 46.32.184.105:8443
+INFO[0007] [1275241492 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:57248
+INFO[0007] [1275241492 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0007] [1886845647 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62783
+INFO[0007] [1886845647 0ms] inbound/tun[tun-in]: inbound connection to 31.13.72.5:443
+INFO[0007] [1886845647 0ms] router: found process path: C:\Program Files\Meta Horizon\Support\oculus-remote-desktop\RemoteDesktopCompanion.exe
+INFO[0007] [1886845647 1ms] outbound/direct[bypass]: outbound connection to 31.13.72.5:443
+INFO[0007] [1275241492 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0007] [1275241492 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0010] [2278813918 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:65437
+INFO[0010] [2278813918 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0010] [2278813918 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0010] [2278813918 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0012] [2577019439 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:53720
+INFO[0012] [2577019439 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0012] [2577019439 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0012] [2577019439 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0012] [3063455905 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62787
+INFO[0012] [3063455905 0ms] inbound/tun[tun-in]: inbound connection to 23.73.2.75:443
+INFO[0012] [3063455905 189ms] router: found process path: C:\Program Files (x86)\Steam\steam.exe
+INFO[0012] [3063455905 189ms] outbound/direct[bypass]: outbound connection to 23.73.2.75:443
+INFO[0012] [452602988 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:62320
+INFO[0012] [452602988 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0012] [452602988 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0012] [452602988 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0013] [159221529 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62789
+INFO[0013] [159221529 0ms] inbound/tun[tun-in]: inbound connection to 162.159.128.233:443
+INFO[0013] [159221529 1ms] router: found process path: C:\Users\Leon\AppData\Local\Discord\app-1.0.9230\Discord.exe
+INFO[0013] [159221529 1ms] outbound/vless[proxy]: outbound connection to 162.159.128.233:443
+INFO[0013] [159221529 67ms] outbound/vless[proxy]: outbound connection to 162.159.128.233:443
+INFO[0013] [3086341552 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62791
+INFO[0013] [3086341552 0ms] inbound/tun[tun-in]: inbound connection to 209.85.233.188:443
+INFO[0013] [3086341552 1ms] router: found process path: C:\Program Files\Google\Chrome\Application\chrome.exe
+INFO[0013] [3086341552 1ms] outbound/vless[proxy]: outbound connection to 209.85.233.188:443
+INFO[0013] [3086341552 59ms] outbound/vless[proxy]: outbound connection to 209.85.233.188:443
+INFO[0015] [981286306 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:49217
+INFO[0015] [981286306 0ms] inbound/tun[tun-in]: inbound packet connection to 162.159.128.233:443
+INFO[0015] [981286306 1ms] router: found process path: C:\Users\Leon\AppData\Local\Discord\app-1.0.9230\Discord.exe
+INFO[0015] [981286306 1ms] outbound/vless[proxy]: outbound packet connection to 162.159.128.233:443
+INFO[0015] [981286306 1ms] outbound/vless[proxy]: outbound packet connection to 162.159.128.233:443
+INFO[0017] [9156440 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:54180
+INFO[0017] [9156440 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0017] [9156440 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0017] [9156440 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0019] [2111691908 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:51002
+INFO[0019] [2111691908 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0019] [2111691908 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0019] [2111691908 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0022] [1840595543 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62794
+INFO[0022] [1840595543 0ms] inbound/tun[tun-in]: inbound connection to 31.13.72.8:443
+INFO[0022] [1840595543 0ms] router: found process path: C:\Program Files\Meta Horizon\Support\oculus-remote-desktop\RemoteDesktopCompanion.exe
+INFO[0022] [1840595543 0ms] outbound/direct[bypass]: outbound connection to 31.13.72.8:443
+INFO[0000] [605445752 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:64742
+INFO[0000] [605445752 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0000] [605445752 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0000] [605445752 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0000] [1680501169 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:58001
+INFO[0000] [1680501169 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0000] [1680501169 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0000] [1680501169 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0001] [3904592909 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:64944
+INFO[0001] [3904592909 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0001] [3904592909 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0001] [3904592909 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0003] [3148289234 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:57079
+INFO[0003] [3148289234 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0003] [3148289234 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0003] [3148289234 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0007] [1770426087 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:55482
+INFO[0007] [1770426087 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0007] [1770426087 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0007] [1770426087 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0008] [3939136367 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:49217
+INFO[0008] [3939136367 0ms] inbound/tun[tun-in]: inbound packet connection to 162.159.128.233:443
+INFO[0008] [3939136367 1ms] router: failed to search process: process not found
+INFO[0008] [3939136367 1ms] outbound/direct[bypass]: outbound packet connection
+INFO[0010] [3412921519 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62806
+INFO[0010] [3412921519 0ms] inbound/tun[tun-in]: inbound connection to 46.32.184.105:8443
+INFO[0010] [3412921519 1ms] router: found process path: C:\Users\Leon\AppData\Roaming\Telegram Desktop\Telegram.exe
+INFO[0010] [3412921519 1ms] outbound/direct[direct]: outbound connection to 46.32.184.105:8443
+INFO[0010] [1008319942 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:60468
+INFO[0010] [1008319942 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0010] [1008319942 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0010] [1008319942 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0012] [19304386 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:58361
+INFO[0012] [19304386 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0012] [19304386 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0012] [19304386 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0012] [1980885574 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62808
+INFO[0012] [1980885574 0ms] inbound/tun[tun-in]: inbound connection to 23.73.2.75:443
+INFO[0012] [636151858 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62809
+INFO[0012] [636151858 0ms] inbound/tun[tun-in]: inbound connection to 46.32.184.105:8443
+INFO[0012] [636151858 0ms] router: found process path: C:\Users\Leon\AppData\Roaming\Telegram Desktop\Telegram.exe
+INFO[0012] [636151858 0ms] outbound/direct[direct]: outbound connection to 46.32.184.105:8443
+INFO[0012] [1980885574 204ms] router: found process path: C:\Program Files (x86)\Steam\steam.exe
+INFO[0012] [1980885574 204ms] outbound/direct[bypass]: outbound connection to 23.73.2.75:443
+INFO[0013] [1746215298 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62812
+INFO[0013] [1746215298 0ms] inbound/tun[tun-in]: inbound connection to 209.85.233.188:5228
+INFO[0013] [1746215298 0ms] router: found process path: C:\Program Files\Google\Chrome\Application\chrome.exe
+INFO[0013] [1746215298 0ms] outbound/vless[proxy]: outbound connection to 209.85.233.188:5228
+INFO[0013] [1746215298 62ms] outbound/vless[proxy]: outbound connection to 209.85.233.188:5228
+INFO[0017] [1884557484 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:58102
+INFO[0017] [1884557484 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0017] [1884557484 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0017] [1884557484 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0019] [1198124407 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:49531
+INFO[0019] [1198124407 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0019] [1198124407 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0019] [1198124407 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0020] [309819121 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:60310
+INFO[0020] [309819121 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0020] [309819121 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0020] [309819121 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0021] [4089321633 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:61976
+INFO[0021] [4089321633 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0021] [4089321633 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0021] [4089321633 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0022] [1750751028 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:59416
+INFO[0022] [1750751028 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0022] [2306474173 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62814
+INFO[0022] [2306474173 0ms] inbound/tun[tun-in]: inbound connection to 162.159.136.232:443
+INFO[0022] [1750751028 2ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0022] [1750751028 2ms] outbound/direct[direct]: outbound packet connection
+INFO[0022] [2306474173 3ms] router: found process path: C:\Users\Leon\AppData\Local\Discord\app-1.0.9230\Discord.exe
+INFO[0022] [2306474173 3ms] outbound/vless[proxy]: outbound connection to 162.159.136.232:443
+INFO[0022] [2306474173 67ms] outbound/vless[proxy]: outbound connection to 162.159.136.232:443
+INFO[0022] [2973457131 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:65192
+INFO[0022] [2973457131 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0022] [2973457131 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0022] [2973457131 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0023] [2812548667 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:59343
+INFO[0023] [2812548667 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0023] [2812548667 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0023] [2812548667 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0024] [4065609276 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62816
+INFO[0024] [4065609276 0ms] inbound/tun[tun-in]: inbound connection to 31.13.72.5:443
+INFO[0024] [1498496693 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:63585
+INFO[0024] [1498496693 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0024] [4065609276 0ms] router: found process path: C:\Program Files\Meta Horizon\Support\oculus-remote-desktop\RemoteDesktopCompanion.exe
+INFO[0024] [4065609276 0ms] outbound/direct[bypass]: outbound connection to 31.13.72.5:443
+INFO[0024] [1498496693 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0024] [1498496693 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0026] [115576169 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:61591
+INFO[0026] [115576169 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0026] [115576169 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0026] [115576169 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0027] [3545419323 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:49974
+INFO[0027] [3545419323 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0027] [3545419323 2ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0027] [3545419323 2ms] outbound/direct[direct]: outbound packet connection
+INFO[0028] [2351202274 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:56801
+INFO[0028] [2351202274 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0028] [2351202274 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0028] [2351202274 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0029] [3243716034 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62818
+INFO[0029] [3243716034 0ms] inbound/tun[tun-in]: inbound connection to 44.252.201.228:443
+INFO[0029] [3243716034 0ms] router: found process path: C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe
+INFO[0029] [3243716034 0ms] outbound/direct[bypass]: outbound connection to 44.252.201.228:443
+INFO[0031] [869831100 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:60002
+INFO[0031] [869831100 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0031] [869831100 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0031] [869831100 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0033] [4042580112 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62820
+INFO[0033] [4042580112 0ms] inbound/tun[tun-in]: inbound connection to 194.158.198.23:80
+INFO[0033] [4042580112 0ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0033] [4042580112 0ms] outbound/direct[direct]: outbound connection to 194.158.198.23:80
+INFO[0033] [2356889064 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:56832
+INFO[0033] [2356889064 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0033] [2356889064 2ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0033] [2356889064 2ms] outbound/direct[direct]: outbound packet connection
+INFO[0033] [1729896999 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:59347
+INFO[0033] [1729896999 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0033] [1729896999 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0033] [1729896999 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0034] [373053343 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:62302
+INFO[0034] [373053343 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0034] [373053343 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0034] [373053343 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0034] [2849545587 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:58361
+INFO[0034] [2849545587 0ms] inbound/tun[tun-in]: inbound packet connection to 108.177.14.94:443
+INFO[0034] [2849545587 1ms] router: found process path: C:\Program Files\Google\Chrome\Application\chrome.exe
+INFO[0034] [2849545587 1ms] outbound/vless[proxy]: outbound packet connection to 108.177.14.94:443
+INFO[0034] [2849545587 1ms] outbound/vless[proxy]: outbound packet connection to 108.177.14.94:443
+INFO[0034] [591623273 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:53970
+INFO[0034] [591623273 0ms] inbound/tun[tun-in]: inbound packet connection to 162.159.137.232:443
+INFO[0034] [591623273 1ms] router: found process path: C:\Users\Leon\AppData\Local\Discord\app-1.0.9230\Discord.exe
+INFO[0034] [591623273 1ms] outbound/vless[proxy]: outbound packet connection to 162.159.137.232:443
+INFO[0034] [591623273 1ms] outbound/vless[proxy]: outbound packet connection to 162.159.137.232:443
+INFO[0035] [3167021671 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:53608
+INFO[0035] [3167021671 0ms] inbound/tun[tun-in]: inbound packet connection to 142.250.150.94:443
+INFO[0035] [3167021671 1ms] router: found process path: C:\Program Files\Google\Chrome\Application\chrome.exe
+INFO[0035] [3167021671 1ms] outbound/vless[proxy]: outbound packet connection to 142.250.150.94:443
+INFO[0035] [3167021671 1ms] outbound/vless[proxy]: outbound packet connection to 142.250.150.94:443
+INFO[0035] [2380533771 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62825
+INFO[0035] [2380533771 0ms] inbound/tun[tun-in]: inbound connection to 162.159.133.234:443
+INFO[0035] [2380533771 1ms] router: found process path: C:\Users\Leon\AppData\Local\Discord\app-1.0.9230\Discord.exe
+INFO[0035] [2380533771 1ms] outbound/vless[proxy]: outbound connection to 162.159.133.234:443
+INFO[0035] [2380533771 63ms] outbound/vless[proxy]: outbound connection to 162.159.133.234:443
+INFO[0035] [676868817 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:49167
+INFO[0035] [676868817 0ms] inbound/tun[tun-in]: inbound packet connection to 216.239.32.223:443
+INFO[0035] [676868817 1ms] router: found process path: C:\Program Files\NVIDIA Corporation\NVIDIA app\CEF\NVIDIA Overlay.exe
+INFO[0035] [676868817 1ms] outbound/direct[bypass]: outbound packet connection
+INFO[0036] [3450851601 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62828
+INFO[0036] [3730095383 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62827
+INFO[0036] [3450851601 0ms] inbound/tun[tun-in]: inbound connection to 31.13.72.5:443
+INFO[0036] [3730095383 0ms] inbound/tun[tun-in]: inbound connection to 31.13.72.5:443
+INFO[0036] [3730095383 5ms] router: found process path: C:\Program Files\Meta Horizon\Support\oculus-runtime\OVRServer_x64.exe
+INFO[0036] [3730095383 5ms] outbound/direct[bypass]: outbound connection to 31.13.72.5:443
+INFO[0036] [3450851601 5ms] router: found process path: C:\Program Files\Meta Horizon\Support\oculus-runtime\OVRServer_x64.exe
+INFO[0036] [3450851601 5ms] outbound/direct[bypass]: outbound connection to 31.13.72.5:443
+INFO[0038] [152124244 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:55572
+INFO[0038] [152124244 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0038] [152124244 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0038] [152124244 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0038] [1955010929 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:57198
+INFO[0038] [1955010929 0ms] inbound/tun[tun-in]: inbound packet connection to 64.233.164.198:443
+INFO[0038] [608827109 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62831
+INFO[0038] [608827109 0ms] inbound/tun[tun-in]: inbound connection to 64.233.164.198:443
+INFO[0038] [608827109 1ms] router: found process path: C:\Program Files\Google\Chrome\Application\chrome.exe
+INFO[0038] [608827109 1ms] outbound/vless[proxy]: outbound connection to 64.233.164.198:443
+INFO[0038] [1955010929 1ms] router: found process path: C:\Program Files\Google\Chrome\Application\chrome.exe
+INFO[0038] [1955010929 1ms] outbound/vless[proxy]: outbound packet connection to 64.233.164.198:443
+INFO[0038] [1955010929 1ms] outbound/vless[proxy]: outbound packet connection to 64.233.164.198:443
+INFO[0038] [608827109 59ms] outbound/vless[proxy]: outbound connection to 64.233.164.198:443
+INFO[0039] [3528250464 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:54980
+INFO[0039] [3528250464 0ms] inbound/tun[tun-in]: inbound packet connection to 35.186.224.24:443
+INFO[0039] [3528250464 1ms] router: found process path: C:\Users\Leon\AppData\Local\Discord\app-1.0.9230\Discord.exe
+INFO[0039] [3528250464 1ms] outbound/vless[proxy]: outbound packet connection to 35.186.224.24:443
+INFO[0039] [3528250464 1ms] outbound/vless[proxy]: outbound packet connection to 35.186.224.24:443
+INFO[0039] [369671180 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:52105
+INFO[0039] [369671180 0ms] inbound/tun[tun-in]: inbound packet connection to 162.159.138.232:443
+INFO[0039] [2191648955 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62835
+INFO[0039] [2191648955 0ms] inbound/tun[tun-in]: inbound connection to 162.159.138.232:443
+INFO[0039] [2191648955 0ms] router: found process path: C:\Users\Leon\AppData\Local\Discord\app-1.0.9230\Discord.exe
+INFO[0039] [2191648955 0ms] outbound/vless[proxy]: outbound connection to 162.159.138.232:443
+INFO[0039] [369671180 1ms] router: found process path: C:\Users\Leon\AppData\Local\Discord\app-1.0.9230\Discord.exe
+INFO[0039] [369671180 1ms] outbound/vless[proxy]: outbound packet connection to 162.159.138.232:443
+INFO[0039] [369671180 1ms] outbound/vless[proxy]: outbound packet connection to 162.159.138.232:443
+INFO[0039] [2191648955 64ms] outbound/vless[proxy]: outbound connection to 162.159.138.232:443
+INFO[0039] [490770416 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62838
+INFO[0039] [490770416 0ms] inbound/tun[tun-in]: inbound connection to 162.159.130.233:443
+INFO[0039] [490770416 0ms] router: found process path: C:\Users\Leon\AppData\Local\Discord\app-1.0.9230\Discord.exe
+INFO[0039] [490770416 0ms] outbound/vless[proxy]: outbound connection to 162.159.130.233:443
+INFO[0039] [1304965127 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62840
+INFO[0039] [1304965127 0ms] inbound/tun[tun-in]: inbound connection to 35.186.224.39:443
+INFO[0039] [1304965127 0ms] router: found process path: C:\Users\Leon\AppData\Local\Discord\app-1.0.9230\Discord.exe
+INFO[0039] [1304965127 0ms] outbound/vless[proxy]: outbound connection to 35.186.224.39:443
+INFO[0039] [1304965127 57ms] outbound/vless[proxy]: outbound connection to 35.186.224.39:443
+INFO[0040] [2194067432 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62842
+INFO[0040] [2194067432 0ms] inbound/tun[tun-in]: inbound connection to 162.159.130.233:443
+INFO[0040] [1538457406 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62843
+INFO[0040] [1538457406 0ms] inbound/tun[tun-in]: inbound connection to 162.159.130.233:443
+INFO[0040] [4070246414 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62844
+INFO[0040] [4070246414 0ms] inbound/tun[tun-in]: inbound connection to 162.159.130.233:443
+INFO[0040] [2194067432 1ms] router: found process path: C:\Users\Leon\AppData\Local\Discord\app-1.0.9230\Discord.exe
+INFO[0040] [2194067432 1ms] outbound/vless[proxy]: outbound connection to 162.159.130.233:443
+INFO[0040] [1538457406 1ms] router: found process path: C:\Users\Leon\AppData\Local\Discord\app-1.0.9230\Discord.exe
+INFO[0040] [1538457406 1ms] outbound/vless[proxy]: outbound connection to 162.159.130.233:443
+INFO[0040] [4070246414 2ms] router: found process path: C:\Users\Leon\AppData\Local\Discord\app-1.0.9230\Discord.exe
+INFO[0040] [4070246414 2ms] outbound/vless[proxy]: outbound connection to 162.159.130.233:443
+INFO[0040] [490770416 360ms] outbound/vless[proxy]: outbound connection to 162.159.130.233:443
+INFO[0040] [4070246414 61ms] outbound/vless[proxy]: outbound connection to 162.159.130.233:443
+INFO[0040] [2194067432 63ms] outbound/vless[proxy]: outbound connection to 162.159.130.233:443
+INFO[0040] [1538457406 65ms] outbound/vless[proxy]: outbound connection to 162.159.130.233:443
+INFO[0041] [732036671 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62848
+INFO[0041] [732036671 0ms] inbound/tun[tun-in]: inbound connection to 162.159.130.233:443
+INFO[0041] [732036671 1ms] router: found process path: C:\Users\Leon\AppData\Local\Discord\app-1.0.9230\Discord.exe
+INFO[0041] [732036671 1ms] outbound/vless[proxy]: outbound connection to 162.159.130.233:443
+INFO[0041] [732036671 66ms] outbound/vless[proxy]: outbound connection to 162.159.130.233:443
+ERROR[0043] [4065609276 19.17s] inbound/tun[tun-in]: download: raw-read tcp 192.168.1.59:62817->31.13.72.5:443: An existing connection was forcibly closed by the remote host.
+INFO[0044] [3382637491 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62850
+INFO[0044] [3382637491 0ms] inbound/tun[tun-in]: inbound connection to 31.13.72.8:443
+INFO[0044] [3382637491 0ms] router: found process path: C:\Program Files\Meta Horizon\Support\oculus-remote-desktop\RemoteDesktopCompanion.exe
+INFO[0044] [3382637491 1ms] outbound/direct[bypass]: outbound connection to 31.13.72.8:443
+INFO[0045] [2915443555 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:58181
+INFO[0045] [2915443555 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0045] [2915443555 2ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0045] [2915443555 2ms] outbound/direct[direct]: outbound packet connection
+INFO[0045] [471206265 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62852
+INFO[0045] [471206265 0ms] inbound/tun[tun-in]: inbound connection to 162.159.138.234:443
+INFO[0045] [471206265 1ms] router: found process path: C:\Users\Leon\AppData\Local\Discord\app-1.0.9230\Discord.exe
+INFO[0045] [471206265 1ms] outbound/vless[proxy]: outbound connection to 162.159.138.234:443
+INFO[0045] [471206265 61ms] outbound/vless[proxy]: outbound connection to 162.159.138.234:443
+INFO[0045] [1863116528 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:58183
+INFO[0045] [1863116528 0ms] inbound/tun[tun-in]: inbound packet connection to 104.29.155.195:50003
+INFO[0045] [1863116528 1ms] router: found process path: C:\Users\Leon\AppData\Local\Discord\app-1.0.9230\Discord.exe
+INFO[0045] [1863116528 1ms] outbound/vless[proxy]: outbound packet connection to 104.29.155.195:50003
+INFO[0045] [1863116528 1ms] outbound/vless[proxy]: outbound packet connection to 104.29.155.195:50003
+INFO[0045] [136435849 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62855
+INFO[0045] [136435849 0ms] inbound/tun[tun-in]: inbound connection to 63.176.236.234:443
+INFO[0045] [136435849 0ms] router: found process path: C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe
+INFO[0045] [136435849 0ms] outbound/direct[bypass]: outbound connection to 63.176.236.234:443
+INFO[0051] [3868456692 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:137
+INFO[0051] [3868456692 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:137
+INFO[0051] [3766284350 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:64560
+INFO[0051] [3766284350 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0051] [3868456692 1ms] router: found process path: :System
+INFO[0051] [3868456692 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0051] [3766284350 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0051] [3766284350 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0051] [1126269408 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:64257
+INFO[0051] [1126269408 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0051] [1126269408 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0051] [1126269408 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0056] [4195274092 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:59743
+INFO[0056] [4195274092 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0056] [4195274092 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0056] [4195274092 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0057] [534396976 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:60965
+INFO[0057] [534396976 0ms] inbound/tun[tun-in]: inbound packet connection to 64.233.164.102:443
+INFO[0057] [534396976 1ms] router: found process path: C:\Program Files\Google\Chrome\Application\chrome.exe
+INFO[0057] [534396976 1ms] outbound/vless[proxy]: outbound packet connection to 64.233.164.102:443
+INFO[0057] [534396976 1ms] outbound/vless[proxy]: outbound packet connection to 64.233.164.102:443
+INFO[0061] [3189323472 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62858
+INFO[0061] [3189323472 0ms] inbound/tun[tun-in]: inbound connection to 46.32.184.105:8443
+INFO[0061] [3189323472 1ms] router: found process path: C:\Users\Leon\AppData\Roaming\Telegram Desktop\Telegram.exe
+INFO[0061] [3189323472 1ms] outbound/direct[direct]: outbound connection to 46.32.184.105:8443
+ERROR[0063] [3382637491 19.17s] inbound/tun[tun-in]: download: raw-read tcp 192.168.1.59:62851->31.13.72.8:443: An existing connection was forcibly closed by the remote host.
+INFO[0063] [4136844625 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:54722
+INFO[0063] [4136844625 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0063] [4136844625 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0063] [4136844625 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0063] [4111847570 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:56222
+INFO[0063] [4111847570 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0063] [4111847570 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0063] [4111847570 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0067] [815801406 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62860
+INFO[0067] [815801406 0ms] inbound/tun[tun-in]: inbound connection to 31.13.72.5:443
+INFO[0067] [815801406 0ms] router: found process path: C:\Program Files\Meta Horizon\Support\oculus-remote-desktop\RemoteDesktopCompanion.exe
+INFO[0067] [815801406 0ms] outbound/direct[bypass]: outbound connection to 31.13.72.5:443
+INFO[0068] [2715060713 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:53395
+INFO[0068] [2715060713 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0068] [2715060713 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0068] [2715060713 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0068] [3211695227 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:65112
+INFO[0068] [3211695227 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0068] [3211695227 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0068] [3211695227 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0077] [3705593564 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62866
+INFO[0077] [3705593564 0ms] inbound/tun[tun-in]: inbound connection to 44.252.201.228:443
+INFO[0077] [3705593564 0ms] router: found process path: C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe
+INFO[0077] [3705593564 0ms] outbound/direct[bypass]: outbound connection to 44.252.201.228:443
+INFO[0079] [4037698444 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62868
+INFO[0079] [4037698444 0ms] inbound/tun[tun-in]: inbound connection to 44.252.201.228:443
+INFO[0079] [4037698444 0ms] router: found process path: C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe
+INFO[0079] [4037698444 0ms] outbound/direct[bypass]: outbound connection to 44.252.201.228:443
+INFO[0080] [438802350 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:51410
+INFO[0080] [438802350 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0080] [438802350 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0080] [438802350 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0080] [441547349 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62870
+INFO[0080] [441547349 0ms] inbound/tun[tun-in]: inbound connection to 63.176.236.234:443
+INFO[0080] [441547349 0ms] router: found process path: C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe
+INFO[0080] [441547349 0ms] outbound/direct[bypass]: outbound connection to 63.176.236.234:443
+INFO[0081] [1422611930 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:55361
+INFO[0081] [1422611930 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0081] [1422611930 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0081] [1422611930 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0081] [2771800415 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:55028
+INFO[0081] [2771800415 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0081] [2771800415 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0081] [2771800415 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0085] [1906084769 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:137
+INFO[0085] [1906084769 0ms] inbound/tun[tun-in]: inbound packet connection to 46.32.184.105:137
+INFO[0085] [1906084769 1ms] router: found process path: :System
+INFO[0085] [1999721495 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:56553
+INFO[0085] [1999721495 0ms] inbound/tun[tun-in]: inbound packet connection to 162.159.137.232:443
+INFO[0085] [1999721495 2ms] router: found process path: C:\Users\Leon\AppData\Local\Discord\app-1.0.9230\Discord.exe
+INFO[0085] [1999721495 2ms] outbound/vless[proxy]: outbound packet connection to 162.159.137.232:443
+INFO[0085] [1999721495 2ms] outbound/vless[proxy]: outbound packet connection to 162.159.137.232:443
+ERROR[0085] [3450851601 48.90s] inbound/tun[tun-in]: download: raw-read tcp 192.168.1.59:62830->31.13.72.5:443: An existing connection was forcibly closed by the remote host.
+ERROR[0085] [3730095383 48.91s] inbound/tun[tun-in]: download: raw-read tcp 192.168.1.59:62829->31.13.72.5:443: An existing connection was forcibly closed by the remote host.
+INFO[0085] [988488917 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62873
+INFO[0085] [988488917 0ms] inbound/tun[tun-in]: inbound connection to 63.176.236.234:443
+INFO[0085] [988488917 0ms] router: found process path: C:\Program Files\NVIDIA Corporation\NvContainer\nvcontainer.exe
+INFO[0085] [988488917 0ms] outbound/direct[bypass]: outbound connection to 63.176.236.234:443
+INFO[0086] [4036080187 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:58268
+INFO[0086] [4036080187 0ms] inbound/tun[tun-in]: inbound packet connection to 64.233.164.198:443
+INFO[0086] [4036080187 1ms] router: found process path: C:\Program Files\Google\Chrome\Application\chrome.exe
+INFO[0086] [4036080187 1ms] outbound/vless[proxy]: outbound packet connection to 64.233.164.198:443
+INFO[0086] [4036080187 1ms] outbound/vless[proxy]: outbound packet connection to 64.233.164.198:443
+ERROR[0086] [815801406 19.17s] inbound/tun[tun-in]: download: raw-read tcp 192.168.1.59:62861->31.13.72.5:443: An existing connection was forcibly closed by the remote host.
+INFO[0087] [379995489 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:60803
+INFO[0087] [379995489 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0087] [379995489 2ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0087] [379995489 2ms] outbound/direct[direct]: outbound packet connection
+INFO[0089] [2685448005 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:54847
+INFO[0089] [2685448005 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0089] [2685448005 2ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0089] [2685448005 2ms] outbound/direct[direct]: outbound packet connection
+INFO[0090] [3702582202 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:56127
+INFO[0090] [3702582202 0ms] inbound/tun[tun-in]: inbound packet connection to 108.177.14.94:443
+INFO[0090] [3702582202 1ms] router: found process path: C:\Program Files\Google\Chrome\Application\chrome.exe
+INFO[0090] [3702582202 1ms] outbound/vless[proxy]: outbound packet connection to 108.177.14.94:443
+INFO[0090] [3702582202 1ms] outbound/vless[proxy]: outbound packet connection to 108.177.14.94:443
+INFO[0091] [666387018 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:50040
+INFO[0091] [666387018 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0091] [666387018 0ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0091] [666387018 0ms] outbound/direct[direct]: outbound packet connection
+INFO[0091] [1350927340 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62877
+INFO[0091] [3309502941 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62878
+INFO[0091] [1350927340 0ms] inbound/tun[tun-in]: inbound connection to 46.32.184.105:8443
+INFO[0091] [3309502941 0ms] inbound/tun[tun-in]: inbound connection to 46.32.184.105:8443
+INFO[0091] [1350927340 1ms] router: found process path: C:\Users\Leon\AppData\Roaming\Telegram Desktop\Telegram.exe
+INFO[0091] [3309502941 1ms] router: found process path: C:\Users\Leon\AppData\Roaming\Telegram Desktop\Telegram.exe
+INFO[0091] [1350927340 1ms] outbound/direct[direct]: outbound connection to 46.32.184.105:8443
+INFO[0091] [3309502941 1ms] outbound/direct[direct]: outbound connection to 46.32.184.105:8443
+INFO[0091] [3230555312 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62881
+INFO[0091] [3230555312 0ms] inbound/tun[tun-in]: inbound connection to 46.32.184.105:8443
+INFO[0091] [477418493 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62882
+INFO[0091] [477418493 0ms] inbound/tun[tun-in]: inbound connection to 46.32.184.105:8443
+INFO[0091] [3230555312 1ms] router: found process path: C:\Users\Leon\AppData\Roaming\Telegram Desktop\Telegram.exe
+INFO[0091] [3230555312 1ms] outbound/direct[direct]: outbound connection to 46.32.184.105:8443
+INFO[0091] [477418493 1ms] router: found process path: C:\Users\Leon\AppData\Roaming\Telegram Desktop\Telegram.exe
+INFO[0091] [477418493 1ms] outbound/direct[direct]: outbound connection to 46.32.184.105:8443
+INFO[0091] [1853732431 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62885
+INFO[0091] [1853732431 0ms] inbound/tun[tun-in]: inbound connection to 46.32.184.105:8443
+INFO[0091] [4169275700 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62886
+INFO[0091] [4169275700 0ms] inbound/tun[tun-in]: inbound connection to 46.32.184.105:8443
+INFO[0091] [1853732431 0ms] router: found process path: C:\Users\Leon\AppData\Roaming\Telegram Desktop\Telegram.exe
+INFO[0091] [1853732431 0ms] outbound/direct[direct]: outbound connection to 46.32.184.105:8443
+INFO[0091] [4169275700 0ms] router: found process path: C:\Users\Leon\AppData\Roaming\Telegram Desktop\Telegram.exe
+INFO[0091] [4169275700 1ms] outbound/direct[direct]: outbound connection to 46.32.184.105:8443
+INFO[0093] [17937400 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:62333
+INFO[0093] [17937400 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0093] [3676869726 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:65444
+INFO[0093] [3676869726 0ms] inbound/tun[tun-in]: inbound packet connection to 3.68.170.153:443
+INFO[0093] [17937400 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0093] [17937400 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0093] [3676869726 1ms] router: found process path: C:\Users\Leon\AppData\Local\slack\app-4.48.102\slack.exe
+INFO[0093] [3676869726 1ms] outbound/vless[proxy]: outbound packet connection to 3.68.170.153:443
+INFO[0093] [3676869726 1ms] outbound/vless[proxy]: outbound packet connection to 3.68.170.153:443
+INFO[0093] [4190357667 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62890
+INFO[0093] [4190357667 0ms] inbound/tun[tun-in]: inbound connection to 3.68.170.153:443
+INFO[0093] [4190357667 0ms] router: found process path: C:\Users\Leon\AppData\Local\slack\app-4.48.102\slack.exe
+INFO[0093] [4190357667 1ms] outbound/vless[proxy]: outbound connection to 3.68.170.153:443
+INFO[0093] [4190357667 59ms] outbound/vless[proxy]: outbound connection to 3.68.170.153:443
+INFO[0094] [2698903878 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:62939
+INFO[0094] [2698903878 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0094] [2698903878 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0094] [2698903878 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0096] [3655985130 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:62422
+INFO[0096] [3655985130 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0096] [3655985130 2ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0096] [3655985130 2ms] outbound/direct[direct]: outbound packet connection
+INFO[0096] [2706409846 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:63535
+INFO[0096] [2706409846 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0096] [2706409846 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0096] [2706409846 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0099] [398834382 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62892
+INFO[0099] [398834382 0ms] inbound/tun[tun-in]: inbound connection to 162.159.128.235:8443
+INFO[0099] [398834382 0ms] router: found process path: C:\Users\Leon\AppData\Local\Discord\app-1.0.9230\Discord.exe
+INFO[0099] [398834382 0ms] outbound/vless[proxy]: outbound connection to 162.159.128.235:8443
+INFO[0099] [398834382 58ms] outbound/vless[proxy]: outbound connection to 162.159.128.235:8443
+INFO[0099] [2420787887 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:64321
+INFO[0099] [2420787887 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0099] [2420787887 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0099] [2420787887 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0099] [440704971 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:58765
+INFO[0099] [3501365201 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:58766
+INFO[0099] [440704971 0ms] inbound/tun[tun-in]: inbound packet connection to 104.29.155.195:19341
+INFO[0099] [3501365201 0ms] inbound/tun[tun-in]: inbound packet connection to 104.29.155.195:19341
+INFO[0099] [3501365201 2ms] router: found process path: C:\Users\Leon\AppData\Local\Discord\app-1.0.9230\Discord.exe
+INFO[0099] [3501365201 2ms] outbound/vless[proxy]: outbound packet connection to 104.29.155.195:19341
+INFO[0099] [3501365201 2ms] outbound/vless[proxy]: outbound packet connection to 104.29.155.195:19341
+INFO[0099] [440704971 2ms] router: found process path: C:\Users\Leon\AppData\Local\Discord\app-1.0.9230\Discord.exe
+INFO[0099] [440704971 2ms] outbound/vless[proxy]: outbound packet connection to 104.29.155.195:19341
+INFO[0099] [440704971 2ms] outbound/vless[proxy]: outbound packet connection to 104.29.155.195:19341
+INFO[0103] [933063368 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62896
+INFO[0103] [933063368 0ms] inbound/tun[tun-in]: inbound connection to 23.215.2.132:80
+INFO[0103] [933063368 0ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0103] [933063368 0ms] outbound/direct[bypass]: outbound connection to 23.215.2.132:80
+INFO[0103] [1525460865 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:63730
+INFO[0103] [1525460865 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0103] [1525460865 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0103] [1525460865 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0104] [1776460238 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:53536
+INFO[0104] [1776460238 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0104] [1776460238 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0104] [1776460238 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0104] [1186378886 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62900
+INFO[0104] [1186378886 0ms] inbound/tun[tun-in]: inbound connection to 46.32.184.105:8443
+INFO[0104] [1186378886 0ms] router: found process path: C:\Users\Leon\AppData\Roaming\Telegram Desktop\Telegram.exe
+INFO[0104] [1186378886 0ms] outbound/direct[direct]: outbound connection to 46.32.184.105:8443
+INFO[0105] [2668317240 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:62702
+INFO[0105] [2668317240 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0105] [2668317240 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0105] [2668317240 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0106] [1646296474 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:137
+INFO[0106] [1646296474 0ms] inbound/tun[tun-in]: inbound packet connection to 46.32.186.250:137
+INFO[0106] [4223180083 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:58325
+INFO[0106] [4223180083 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0106] [4223180083 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0106] [4223180083 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0106] [1646296474 1ms] router: found process path: :System
+INFO[0106] [2141331210 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62902
+INFO[0106] [2141331210 0ms] inbound/tun[tun-in]: inbound connection to 52.123.128.14:443
+INFO[0106] [2141331210 0ms] router: found process path: C:\ProgramData\Microsoft\Windows Defender\Platform\4.18.26020.6-0\MpDefenderCoreService.exe
+INFO[0106] [2141331210 0ms] outbound/direct[bypass]: outbound connection to 52.123.128.14:443
+INFO[0106] [3297613370 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62904
+INFO[0106] [3297613370 0ms] inbound/tun[tun-in]: inbound connection to 31.13.72.5:443
+INFO[0106] [3297613370 0ms] router: found process path: C:\Program Files\Meta Horizon\Support\oculus-remote-desktop\RemoteDesktopCompanion.exe
+INFO[0106] [3297613370 0ms] outbound/direct[bypass]: outbound connection to 31.13.72.5:443
+INFO[0108] [1603227603 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62906
+INFO[0108] [1603227603 0ms] inbound/tun[tun-in]: inbound connection to 8.6.112.6:443
+INFO[0108] [1603227603 0ms] router: found process path: C:\Users\Leon\AppData\Local\Programs\Perplexity\Perplexity.exe
+INFO[0108] [1603227603 0ms] outbound/vless[proxy]: outbound connection to 8.6.112.6:443
+INFO[0108] [270127874 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62908
+INFO[0108] [270127874 0ms] inbound/tun[tun-in]: inbound connection to 31.13.72.5:443
+INFO[0108] [1328438463 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62909
+INFO[0108] [1328438463 0ms] inbound/tun[tun-in]: inbound connection to 31.13.72.5:443
+INFO[0108] [1328438463 5ms] router: found process path: C:\Program Files\Meta Horizon\Support\oculus-runtime\OVRServer_x64.exe
+INFO[0108] [1328438463 5ms] outbound/direct[bypass]: outbound connection to 31.13.72.5:443
+INFO[0108] [270127874 6ms] router: found process path: C:\Program Files\Meta Horizon\Support\oculus-runtime\OVRServer_x64.exe
+INFO[0108] [270127874 6ms] outbound/direct[bypass]: outbound connection to 31.13.72.5:443
+INFO[0108] [1603227603 57ms] outbound/vless[proxy]: outbound connection to 8.6.112.6:443
+INFO[0110] [3898161184 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:51313
+INFO[0110] [3898161184 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0110] [3898161184 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0110] [3898161184 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0115] [1614593607 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62912
+INFO[0115] [1614593607 0ms] inbound/tun[tun-in]: inbound connection to 23.11.41.157:80
+INFO[0115] [1614593607 0ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0115] [1614593607 0ms] outbound/direct[bypass]: outbound connection to 23.11.41.157:80
+INFO[0116] [3365317508 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62914
+INFO[0116] [3365317508 0ms] inbound/tun[tun-in]: inbound connection to 31.13.72.8:443
+INFO[0116] [3365317508 0ms] router: found process path: C:\Program Files\Meta Horizon\Support\oculus-remote-desktop\RemoteDesktopCompanion.exe
+INFO[0116] [3365317508 0ms] outbound/direct[bypass]: outbound connection to 31.13.72.8:443
+INFO[0118] [4126919430 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:53030
+INFO[0118] [4126919430 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0118] [4126919430 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0118] [4126919430 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0122] [971410235 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:51006
+INFO[0122] [971410235 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0122] [971410235 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0122] [971410235 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0122] [2035526347 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:59086
+INFO[0122] [2035526347 0ms] inbound/tun[tun-in]: inbound packet connection to 54.236.104.103:443
+INFO[0122] [2035526347 1ms] router: found process path: C:\Users\Leon\AppData\Local\slack\app-4.48.102\slack.exe
+INFO[0122] [2035526347 1ms] outbound/vless[proxy]: outbound packet connection to 54.236.104.103:443
+INFO[0122] [2035526347 1ms] outbound/vless[proxy]: outbound packet connection to 54.236.104.103:443
+INFO[0122] [3397737041 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62917
+INFO[0122] [3397737041 0ms] inbound/tun[tun-in]: inbound connection to 54.236.104.103:443
+INFO[0122] [3397737041 1ms] router: found process path: C:\Users\Leon\AppData\Local\slack\app-4.48.102\slack.exe
+INFO[0122] [3397737041 1ms] outbound/vless[proxy]: outbound connection to 54.236.104.103:443
+INFO[0122] [3397737041 60ms] outbound/vless[proxy]: outbound connection to 54.236.104.103:443
+INFO[0123] [3064689864 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:65346
+INFO[0123] [3064689864 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0123] [3064689864 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0123] [3064689864 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0124] [4033165204 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:49607
+INFO[0124] [4033165204 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0124] [4033165204 2ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0124] [4033165204 2ms] outbound/direct[direct]: outbound packet connection
+ERROR[0125] [3297613370 19.16s] inbound/tun[tun-in]: download: raw-read tcp 192.168.1.59:62905->31.13.72.5:443: An existing connection was forcibly closed by the remote host.
+INFO[0128] [2483804565 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:51558
+INFO[0128] [2483804565 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0128] [2483804565 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0128] [2483804565 1ms] outbound/direct[direct]: outbound packet connection
+ERROR[0135] [3365317508 19.18s] inbound/tun[tun-in]: download: raw-read tcp 192.168.1.59:62915->31.13.72.8:443: An existing connection was forcibly closed by the remote host.
+INFO[0135] [1752642435 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:50165
+INFO[0135] [1752642435 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0135] [582490011 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62919
+INFO[0135] [582490011 0ms] inbound/tun[tun-in]: inbound connection to 34.149.66.154:443
+INFO[0135] [1752642435 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0135] [1752642435 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0135] [582490011 0ms] router: found process path: C:\Program Files\Google\Chrome\Application\chrome.exe
+INFO[0135] [582490011 0ms] outbound/vless[proxy]: outbound connection to 34.149.66.154:443
+INFO[0135] [582490011 60ms] outbound/vless[proxy]: outbound connection to 34.149.66.154:443
+INFO[0136] [2905290159 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:63058
+INFO[0136] [2905290159 0ms] inbound/tun[tun-in]: inbound packet connection to 142.250.150.94:443
+INFO[0136] [2905290159 1ms] router: found process path: C:\Program Files\Google\Chrome\Application\chrome.exe
+INFO[0136] [2905290159 1ms] outbound/vless[proxy]: outbound packet connection to 142.250.150.94:443
+INFO[0136] [2905290159 1ms] outbound/vless[proxy]: outbound packet connection to 142.250.150.94:443
+INFO[0139] [1398685335 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:137
+INFO[0139] [1398685335 0ms] inbound/tun[tun-in]: inbound packet connection to 162.159.133.234:137
+INFO[0139] [1239650023 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:57567
+INFO[0139] [1239650023 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0139] [1398685335 1ms] router: found process path: :System
+INFO[0139] [1239650023 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0139] [1239650023 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0144] [3984828598 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:59857
+INFO[0144] [3984828598 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0144] [3984828598 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0144] [3984828598 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0145] [2216007651 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62922
+INFO[0145] [2216007651 0ms] inbound/tun[tun-in]: inbound connection to 31.13.72.5:443
+INFO[0145] [2216007651 1ms] router: found process path: C:\Program Files\Meta Horizon\Support\oculus-remote-desktop\RemoteDesktopCompanion.exe
+INFO[0145] [2216007651 1ms] outbound/direct[bypass]: outbound connection to 31.13.72.5:443
+INFO[0146] [311464164 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:54359
+INFO[0146] [311464164 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0146] [311464164 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0146] [311464164 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0146] [277665352 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:63481
+INFO[0146] [277665352 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0146] [277665352 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0146] [277665352 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0150] [202050091 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:61929
+INFO[0150] [202050091 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0150] [202050091 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0150] [202050091 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0153] [2135340223 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:65529
+INFO[0153] [2135340223 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0153] [2135340223 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0153] [2135340223 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0000] [3410356962 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:50455
+INFO[0000] [3410356962 0ms] inbound/tun[tun-in]: inbound packet connection to 8.8.4.4:443
+INFO[0000] [3410356962 2ms] router: found process path: C:\Program Files\Google\Chrome\Application\chrome.exe
+INFO[0000] [3410356962 2ms] outbound/vless[proxy]: outbound packet connection to 8.8.4.4:443
+INFO[0000] [3410356962 2ms] outbound/vless[proxy]: outbound packet connection to 8.8.4.4:443
+INFO[0000] [3402513989 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:54515
+INFO[0000] [3402513989 0ms] inbound/tun[tun-in]: inbound packet connection to 8.8.4.4:443
+INFO[0000] [3402513989 2ms] router: found process path: C:\Program Files (x86)\Steam\bin\cef\cef.win64\steamwebhelper.exe
+INFO[0000] [1299037654 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:52831
+INFO[0000] [1299037654 0ms] inbound/tun[tun-in]: inbound packet connection to 8.8.4.4:443
+INFO[0000] [1299037654 2ms] router: found process path: C:\Program Files\Google\Chrome\Application\chrome.exe
+INFO[0000] [1299037654 2ms] outbound/vless[proxy]: outbound packet connection to 8.8.4.4:443
+INFO[0000] [1299037654 2ms] outbound/vless[proxy]: outbound packet connection to 8.8.4.4:443
+INFO[0000] [2310830797 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:58671
+INFO[0000] [2310830797 0ms] inbound/tun[tun-in]: inbound packet connection to 8.8.4.4:443
+INFO[0000] [59065167 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:60693
+INFO[0000] [59065167 0ms] inbound/tun[tun-in]: inbound packet connection to 8.8.4.4:443
+INFO[0000] [514720641 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:52603
+INFO[0000] [514720641 0ms] inbound/tun[tun-in]: inbound packet connection to 8.8.4.4:443
+INFO[0000] [2310830797 1ms] router: found process path: C:\Program Files\NVIDIA Corporation\NVIDIA app\CEF\NVIDIA Overlay.exe
+INFO[0000] [59065167 1ms] router: found process path: C:\Program Files\NVIDIA Corporation\NVIDIA app\CEF\NVIDIA Overlay.exe
+INFO[0000] [514720641 1ms] router: found process path: D:\SteamLibrary\steamapps\common\wallpaper_engine\bin\webwallpaper32.exe
+INFO[0000] [3621570625 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:54906
+INFO[0000] [3621570625 0ms] inbound/tun[tun-in]: inbound packet connection to 8.8.8.8:443
+INFO[0000] [1448623070 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:49928
+INFO[0000] [1448623070 0ms] inbound/tun[tun-in]: inbound packet connection to 8.8.4.4:443
+INFO[0000] [3621570625 2ms] router: found process path: C:\Program Files (x86)\Steam\bin\cef\cef.win64\steamwebhelper.exe
+INFO[0000] [1448623070 7ms] router: found process path: D:\SteamLibrary\steamapps\common\wallpaper_engine\bin\webwallpaper32.exe
+INFO[0000] [1904760060 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:59029
+INFO[0000] [1904760060 0ms] inbound/tun[tun-in]: inbound packet connection to 8.8.8.8:443
+INFO[0000] [1904760060 2ms] router: found process path: C:\Program Files\NVIDIA Corporation\NVIDIA app\CEF\NVIDIA Overlay.exe
+INFO[0000] [2549048427 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:58637
+INFO[0000] [2549048427 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0000] [2549048427 3ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0000] [3402513989 37ms] outbound/direct[bypass]: outbound packet connection
+INFO[0000] [59065167 31ms] outbound/direct[bypass]: outbound packet connection
+INFO[0000] [2310830797 32ms] outbound/direct[bypass]: outbound packet connection
+INFO[0000] [514720641 33ms] outbound/direct[bypass]: outbound packet connection
+INFO[0000] [3621570625 31ms] outbound/direct[bypass]: outbound packet connection
+INFO[0000] [1448623070 30ms] outbound/direct[bypass]: outbound packet connection
+INFO[0000] [1904760060 23ms] outbound/direct[bypass]: outbound packet connection
+INFO[0000] [2549048427 21ms] outbound/direct[direct]: outbound packet connection
+INFO[0000] [2881528245 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:61582
+INFO[0000] [2881528245 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0000] [2881528245 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0000] [2881528245 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0001] [564811742 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:65529
+INFO[0001] [564811742 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0001] [564811742 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0001] [564811742 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0001] [6342241 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:54551
+INFO[0001] [6342241 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0001] [6342241 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0001] [6342241 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0001] [3437477613 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:53732
+INFO[0001] [3437477613 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0001] [3437477613 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0001] [3437477613 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0002] [2194522167 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:60657
+INFO[0002] [2194522167 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0002] [2194522167 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0002] [2194522167 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0002] [91026176 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:55650
+INFO[0002] [91026176 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0002] [91026176 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0002] [91026176 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0004] [2513446556 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:54415
+INFO[0004] [2513446556 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0004] [2513446556 2ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0004] [2513446556 2ms] outbound/direct[direct]: outbound packet connection
+INFO[0004] [2608225107 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:58188
+INFO[0004] [2608225107 0ms] inbound/tun[tun-in]: inbound packet connection to 104.29.155.195:19341
+INFO[0004] [2608225107 1ms] router: found process path: C:\Users\Leon\AppData\Local\Discord\app-1.0.9230\Discord.exe
+INFO[0004] [2608225107 1ms] outbound/vless[proxy]: outbound packet connection to 104.29.155.195:19341
+INFO[0004] [2608225107 1ms] outbound/vless[proxy]: outbound packet connection to 104.29.155.195:19341
+INFO[0004] [184134098 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:58765
+INFO[0004] [184134098 0ms] inbound/tun[tun-in]: inbound packet connection to 104.29.155.195:19341
+INFO[0004] [184134098 1ms] router: found process path: C:\Users\Leon\AppData\Local\Discord\app-1.0.9230\Discord.exe
+INFO[0004] [184134098 1ms] outbound/vless[proxy]: outbound packet connection to 104.29.155.195:19341
+INFO[0004] [184134098 1ms] outbound/vless[proxy]: outbound packet connection to 104.29.155.195:19341
+INFO[0005] [2966117071 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:64536
+INFO[0005] [2966117071 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0005] [2966117071 0ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0005] [2966117071 0ms] outbound/direct[direct]: outbound packet connection
+INFO[0006] [3913634097 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:59266
+INFO[0006] [3913634097 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0006] [3913634097 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0006] [3913634097 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0007] [239660501 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:53843
+INFO[0007] [239660501 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0007] [239660501 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0007] [239660501 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0008] [514691473 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62941
+INFO[0008] [514691473 0ms] inbound/tun[tun-in]: inbound connection to 31.13.72.8:443
+INFO[0008] [514691473 0ms] router: found process path: C:\Program Files\Meta Horizon\Support\oculus-remote-desktop\RemoteDesktopCompanion.exe
+INFO[0008] [514691473 0ms] outbound/direct[bypass]: outbound connection to 31.13.72.8:443
+INFO[0009] [2094584767 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:55159
+INFO[0009] [2094584767 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0009] [2094584767 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0009] [2094584767 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0000] [4056770553 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:58188
+INFO[0000] [4056770553 0ms] inbound/tun[tun-in]: inbound packet connection to 104.29.155.195:19341
+INFO[0000] [4056770553 1ms] router: found process path: C:\Users\Leon\AppData\Local\Discord\app-1.0.9230\Discord.exe
+INFO[0000] [4056770553 1ms] outbound/vless[proxy]: outbound packet connection to 104.29.155.195:19341
+INFO[0000] [4056770553 1ms] outbound/vless[proxy]: outbound packet connection to 104.29.155.195:19341
+INFO[0000] [936113730 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:53843
+INFO[0000] [936113730 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0000] [936113730 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0000] [936113730 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0001] [926474719 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:54415
+INFO[0001] [926474719 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0001] [926474719 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0001] [926474719 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0001] [2931946985 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:57795
+INFO[0001] [2931946985 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0001] [2931946985 4ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0001] [2931946985 4ms] outbound/direct[direct]: outbound packet connection
+INFO[0001] [627184989 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:61844
+INFO[0001] [627184989 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0001] [627184989 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0001] [627184989 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0001] [3059944188 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62944
+INFO[0001] [3059944188 0ms] inbound/tun[tun-in]: inbound connection to 23.73.2.89:443
+INFO[0001] [3059944188 199ms] router: found process path: C:\Program Files (x86)\Steam\steam.exe
+INFO[0001] [3059944188 200ms] outbound/direct[bypass]: outbound connection to 23.73.2.89:443
+INFO[0001] [2038622961 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:53832
+INFO[0001] [2038622961 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0001] [2038622961 2ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0001] [2038622961 2ms] outbound/direct[direct]: outbound packet connection
+INFO[0002] [3165271309 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:52214
+INFO[0002] [3165271309 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0002] [3165271309 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0002] [3165271309 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0002] [2704690159 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:64536
+INFO[0002] [2704690159 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0002] [2704690159 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0002] [2704690159 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0002] [3061683428 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:52304
+INFO[0002] [3061683428 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0002] [3061683428 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0002] [3061683428 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0003] [3365604444 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:59266
+INFO[0003] [3365604444 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0003] [3365604444 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0003] [3365604444 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0003] [4241741019 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:58111
+INFO[0003] [4241741019 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0003] [4241741019 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0003] [4241741019 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0004] [3845161448 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:63091
+INFO[0004] [3845161448 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0004] [3845161448 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0004] [3845161448 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0005] [3496601819 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:137
+INFO[0005] [3496601819 0ms] inbound/tun[tun-in]: inbound packet connection to 35.186.224.24:137
+INFO[0005] [207520716 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:56895
+INFO[0005] [207520716 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0005] [3496601819 1ms] router: found process path: :System
+INFO[0005] [207520716 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0005] [207520716 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0005] [3166415540 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:63738
+INFO[0005] [3166415540 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0005] [3166415540 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0005] [3166415540 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0006] [1132743052 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:63405
+INFO[0006] [1132743052 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0006] [1132743052 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0006] [1132743052 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0009] [974761447 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:60147
+INFO[0009] [974761447 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0009] [974761447 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0009] [974761447 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0010] [1503837363 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:55059
+INFO[0010] [1503837363 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0010] [1503837363 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0010] [1503837363 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0011] [3651754325 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:61558
+INFO[0011] [3651754325 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0011] [3651754325 2ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0011] [3651754325 2ms] outbound/direct[direct]: outbound packet connection
+INFO[0013] [3826875790 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:51306
+INFO[0013] [3826875790 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0013] [3826875790 2ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0013] [3826875790 2ms] outbound/direct[direct]: outbound packet connection
+INFO[0013] [1889820124 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62946
+INFO[0013] [1889820124 0ms] inbound/tun[tun-in]: inbound connection to 173.194.221.188:5228
+INFO[0013] [1889820124 1ms] router: found process path: C:\Program Files\Google\Chrome\Application\chrome.exe
+INFO[0013] [1889820124 1ms] outbound/vless[proxy]: outbound connection to 173.194.221.188:5228
+INFO[0013] [1889820124 60ms] outbound/vless[proxy]: outbound connection to 173.194.221.188:5228
+INFO[0014] [3633700077 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62948
+INFO[0014] [3633700077 0ms] inbound/tun[tun-in]: inbound connection to 18.97.36.70:443
+INFO[0014] [3633700077 1ms] router: found process path: C:\Program Files\Google\Chrome\Application\chrome.exe
+INFO[0014] [3633700077 1ms] outbound/vless[proxy]: outbound connection to 18.97.36.70:443
+INFO[0014] [2133177788 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62950
+INFO[0014] [3099924821 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62951
+INFO[0014] [2133177788 0ms] inbound/tun[tun-in]: inbound connection to 31.13.72.5:443
+INFO[0014] [3099924821 0ms] inbound/tun[tun-in]: inbound connection to 31.13.72.5:443
+INFO[0014] [3099924821 6ms] router: found process path: C:\Program Files\Meta Horizon\Support\oculus-runtime\OVRServer_x64.exe
+INFO[0014] [2133177788 6ms] router: found process path: C:\Program Files\Meta Horizon\Support\oculus-runtime\OVRServer_x64.exe
+INFO[0014] [3099924821 6ms] outbound/direct[bypass]: outbound connection to 31.13.72.5:443
+INFO[0014] [2133177788 6ms] outbound/direct[bypass]: outbound connection to 31.13.72.5:443
+INFO[0014] [3633700077 59ms] outbound/vless[proxy]: outbound connection to 18.97.36.70:443
+INFO[0016] [522617770 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62954
+INFO[0016] [522617770 0ms] inbound/tun[tun-in]: inbound connection to 162.159.128.235:8443
+INFO[0016] [522617770 0ms] router: found process path: C:\Users\Leon\AppData\Local\Discord\app-1.0.9230\Discord.exe
+INFO[0016] [522617770 0ms] outbound/vless[proxy]: outbound connection to 162.159.128.235:8443
+INFO[0017] [522617770 61ms] outbound/vless[proxy]: outbound connection to 162.159.128.235:8443
+INFO[0017] [1274320246 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:61025
+INFO[0017] [1274320246 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0017] [1274320246 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0017] [1274320246 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0018] [633109317 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:56326
+INFO[0018] [633109317 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0018] [633109317 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0018] [633109317 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0018] [811585013 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62956
+INFO[0018] [811585013 0ms] inbound/tun[tun-in]: inbound connection to 31.13.72.5:443
+INFO[0018] [561514684 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:55832
+INFO[0018] [561514684 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0018] [811585013 0ms] router: found process path: C:\Program Files\Meta Horizon\Support\oculus-remote-desktop\RemoteDesktopCompanion.exe
+INFO[0018] [811585013 0ms] outbound/direct[bypass]: outbound connection to 31.13.72.5:443
+INFO[0018] [561514684 1ms] router: found process path: C:\Windows\System32\svchost.exe
+INFO[0018] [561514684 1ms] outbound/direct[direct]: outbound packet connection
+INFO[0019] [3330392263 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:61809
+INFO[0019] [3330392263 0ms] inbound/tun[tun-in]: inbound packet connection to 3.67.131.16:443
+INFO[0019] [2148457118 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:62958
+INFO[0019] [2148457118 0ms] inbound/tun[tun-in]: inbound connection to 3.67.131.16:443
+INFO[0019] [2148457118 1ms] router: found process path: C:\Users\Leon\AppData\Local\slack\app-4.48.102\slack.exe
+INFO[0019] [3330392263 2ms] router: found process path: C:\Users\Leon\AppData\Local\slack\app-4.48.102\slack.exe
+INFO[0019] [2148457118 1ms] outbound/vless[proxy]: outbound connection to 3.67.131.16:443
+INFO[0019] [3330392263 2ms] outbound/vless[proxy]: outbound packet connection to 3.67.131.16:443
+INFO[0019] [3330392263 2ms] outbound/vless[proxy]: outbound packet connection to 3.67.131.16:443
+INFO[0019] [2148457118 63ms] outbound/vless[proxy]: outbound connection to 3.67.131.16:443

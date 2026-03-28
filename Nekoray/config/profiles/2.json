@@ -1,0 +1,30 @@
+{
+    "bean": {
+        "_v": 0,
+        "addr": "46.32.186.250",
+        "flow": "xtls-rprx-vision",
+        "name": "Leomor-Leon",
+        "pass": "b545c4cf-dc11-46b0-86db-31974da45b0e",
+        "port": 443,
+        "stream": {
+            "ed_len": 0,
+            "insecure": false,
+            "mux_s": 0,
+            "net": "tcp",
+            "pbk": "2iwPujAtJZqphVn9FccIEbrqMxdizAcKVlZc7HiloSM",
+            "sec": "tls",
+            "sid": "621b7258",
+            "sni": "mirror.veesp.com",
+            "spx": "/",
+            "utls": "chrome"
+        }
+    },
+    "gid": 0,
+    "id": 2,
+    "traffic": {
+        "dl": 0,
+        "ul": 0
+    },
+    "type": "vless",
+    "yc": 0
+}

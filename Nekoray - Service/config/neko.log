@@ -1,0 +1,462 @@
+0419] [1888457552 0ms] dns: cached 252.0.0.224.in-addr.arpa SOA 224.in-addr.arpa. 1168 IN SOA sns.dns.icann.org. noc.dns.icann.org. 2023096816 7200 3600 604800 3600
+INFO[0424] [3981152587 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:64811
+INFO[0424] [3981152587 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0424] [3981152587 0ms] dns: cached 3.0.0.0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.f.f.ip6.arpa SOA ip6.arpa. 2948 IN SOA b.ip6-servers.arpa. nstld.iana.org. 2026022090 1800 900 604800 3600
+INFO[0424] [2264843736 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:62057
+INFO[0424] [2264843736 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0424] [3538356380 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:60108
+INFO[0424] [3538356380 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0424] [2264843736 46ms] dns: exchanged discord.com A discord.com. 300 IN A 162.159.136.232
+INFO[0424] [2264843736 46ms] dns: exchanged discord.com A discord.com. 300 IN A 162.159.138.232
+INFO[0424] [2264843736 46ms] dns: exchanged discord.com A discord.com. 300 IN A 162.159.128.233
+INFO[0424] [2264843736 46ms] dns: exchanged discord.com A discord.com. 300 IN A 162.159.135.232
+INFO[0424] [2264843736 46ms] dns: exchanged discord.com A discord.com. 300 IN A 162.159.137.232
+INFO[0424] [957127310 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:50223
+INFO[0424] [957127310 0ms] inbound/tun[tun-in]: inbound packet connection to 162.159.136.232:443
+INFO[0424] [957127310 0ms] outbound/vless[proxy]: outbound packet connection to 162.159.136.232:443
+INFO[0424] [957127310 0ms] outbound/vless[proxy]: outbound packet connection to 162.159.136.232:443
+INFO[0424] [2264843736 70ms] dns: exchanged discord.com A discord.com. 300 IN A 162.159.136.232
+INFO[0424] [2264843736 70ms] dns: exchanged discord.com A discord.com. 300 IN A 162.159.128.233
+INFO[0424] [2264843736 70ms] dns: exchanged discord.com A discord.com. 300 IN A 162.159.137.232
+INFO[0424] [2264843736 70ms] dns: exchanged discord.com A discord.com. 300 IN A 162.159.138.232
+INFO[0424] [2264843736 70ms] dns: exchanged discord.com A discord.com. 300 IN A 162.159.135.232
+INFO[0425] [96542849 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:64459
+INFO[0425] [96542849 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0425] [96542849 45ms] dns: exchanged cdn.discordapp.com A cdn.discordapp.com. 300 IN A 162.159.133.233
+INFO[0425] [96542849 45ms] dns: exchanged cdn.discordapp.com A cdn.discordapp.com. 300 IN A 162.159.129.233
+INFO[0425] [96542849 45ms] dns: exchanged cdn.discordapp.com A cdn.discordapp.com. 300 IN A 162.159.135.233
+INFO[0425] [96542849 45ms] dns: exchanged cdn.discordapp.com A cdn.discordapp.com. 300 IN A 162.159.134.233
+INFO[0425] [96542849 45ms] dns: exchanged cdn.discordapp.com A cdn.discordapp.com. 300 IN A 162.159.130.233
+INFO[0425] [96542849 76ms] dns: exchanged cdn.discordapp.com A cdn.discordapp.com. 300 IN A 162.159.130.233
+INFO[0425] [96542849 76ms] dns: exchanged cdn.discordapp.com A cdn.discordapp.com. 300 IN A 162.159.135.233
+INFO[0425] [96542849 76ms] dns: exchanged cdn.discordapp.com A cdn.discordapp.com. 300 IN A 162.159.133.233
+INFO[0425] [96542849 76ms] dns: exchanged cdn.discordapp.com A cdn.discordapp.com. 300 IN A 162.159.129.233
+INFO[0425] [96542849 76ms] dns: exchanged cdn.discordapp.com A cdn.discordapp.com. 300 IN A 162.159.134.233
+INFO[0429] [2187565150 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:51524
+INFO[0429] [2187565150 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0429] [2187565150 0ms] dns: cached 250.186.32.46.in-addr.arpa SOA 186.32.46.in-addr.arpa. 1417 IN SOA ns1.veesp.com. admin.veesp.com. 2024020802 10800 3600 1814400 7200
+INFO[0429] [1337014126 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:137
+INFO[0429] [1337014126 0ms] inbound/tun[tun-in]: inbound packet connection to 46.32.186.250:137
+INFO[0432] [3258242957 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:54819
+INFO[0432] [3258242957 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0432] [3258242957 40ms] dns: exchanged p2p-sto1.discovery.steamserver.net A p2p-sto1.discovery.steamserver.net. 39 IN A 162.254.198.44
+INFO[0432] [3258242957 40ms] dns: exchanged p2p-sto1.discovery.steamserver.net A p2p-sto1.discovery.steamserver.net. 39 IN A 162.254.198.46
+INFO[0432] [3258242957 40ms] dns: exchanged p2p-sto1.discovery.steamserver.net A p2p-sto1.discovery.steamserver.net. 39 IN A 162.254.198.104
+INFO[0432] [3258242957 71ms] dns: exchanged p2p-sto1.discovery.steamserver.net A p2p-sto1.discovery.steamserver.net. 39 IN A 162.254.198.46
+INFO[0432] [3258242957 71ms] dns: exchanged p2p-sto1.discovery.steamserver.net A p2p-sto1.discovery.steamserver.net. 39 IN A 162.254.198.104
+INFO[0432] [3258242957 71ms] dns: exchanged p2p-sto1.discovery.steamserver.net A p2p-sto1.discovery.steamserver.net. 39 IN A 162.254.198.44
+INFO[0433] [275602512 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:54968
+INFO[0433] [275602512 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0438] [3304696579 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:53150
+INFO[0438] [3304696579 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0443] [4161190321 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:64479
+INFO[0443] [4161190321 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0443] [4161190321 0ms] dns: cached 252.0.0.224.in-addr.arpa SOA 224.in-addr.arpa. 1144 IN SOA sns.dns.icann.org. noc.dns.icann.org. 2023096816 7200 3600 604800 3600
+INFO[0447] [788631889 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:63068
+INFO[0447] [788631889 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0447] [788631889 0ms] dns: cached b.f.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.f.f.ip6.arpa SOA ip6.arpa. 2926 IN SOA b.ip6-servers.arpa. nstld.iana.org. 2026022090 1800 900 604800 3600
+INFO[0448] [2188759924 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:64703
+INFO[0448] [2188759924 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0448] [2188759924 0ms] dns: cached 250.255.255.239.in-addr.arpa SOA 239.in-addr.arpa. 1543 IN SOA sns.dns.icann.org. noc.dns.icann.org. 2022091414 7200 3600 604800 3600
+INFO[0450] [3628306940 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:52087
+INFO[0450] [3628306940 0ms] inbound/tun[tun-in]: inbound connection to 34.149.66.154:443
+INFO[0450] [3628306940 2ms] outbound/vless[proxy]: outbound connection to 34.149.66.154:443
+INFO[0450] [3628306940 61ms] outbound/vless[proxy]: outbound connection to 34.149.66.154:443
+INFO[0452] [286372795 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:53541
+INFO[0452] [286372795 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0452] [286372795 0ms] dns: cached c.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.f.f.ip6.arpa SOA ip6.arpa. 2919 IN SOA b.ip6-servers.arpa. nstld.iana.org. 2026022090 1800 900 604800 3600
+INFO[0453] [206798013 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:57400
+INFO[0453] [206798013 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0453] [206798013 0ms] dns: cached 3.0.0.0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.f.f.ip6.arpa SOA ip6.arpa. 2918 IN SOA b.ip6-servers.arpa. nstld.iana.org. 2026022090 1800 900 604800 3600
+INFO[0454] [1859544553 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:49172
+INFO[0454] [1859544553 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+ERROR[0458] [3366707433 1m25s] inbound/tun[tun-in]: upload: read tcp 13.107.5.93:443: connection reset by peer
+INFO[0459] [3704078441 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:63130
+INFO[0459] [3704078441 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0459] [2198826722 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:137
+INFO[0459] [2198826722 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:137
+INFO[0463] [3035927077 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:62033
+INFO[0463] [3035927077 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0468] [61633071 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:61342
+INFO[0468] [61633071 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0468] [61633071 0ms] dns: cached 2.0.0.0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.f.f.ip6.arpa SOA ip6.arpa. 2905 IN SOA b.ip6-servers.arpa. nstld.iana.org. 2026022090 1800 900 604800 3600
+INFO[0469] [3569797766 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:52302
+INFO[0469] [3569797766 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0469] [3569797766 0ms] dns: cached 252.0.0.224.in-addr.arpa SOA 224.in-addr.arpa. 1118 IN SOA sns.dns.icann.org. noc.dns.icann.org. 2023096816 7200 3600 604800 3600
+INFO[0473] [1670517044 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:54324
+INFO[0473] [1670517044 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0473] [1670517044 0ms] dns: cached 250.186.32.46.in-addr.arpa SOA 186.32.46.in-addr.arpa. 1373 IN SOA ns1.veesp.com. admin.veesp.com. 2024020802 10800 3600 1814400 7200
+INFO[0473] [4286558325 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:137
+INFO[0473] [4286558325 0ms] inbound/tun[tun-in]: inbound packet connection to 46.32.186.250:137
+INFO[0478] [2497900042 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:58398
+INFO[0478] [2497900042 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0478] [2497900042 0ms] dns: cached 3.0.0.0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.f.f.ip6.arpa SOA ip6.arpa. 2894 IN SOA b.ip6-servers.arpa. nstld.iana.org. 2026022090 1800 900 604800 3600
+INFO[0479] [3925745113 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:54920
+INFO[0479] [3925745113 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0483] [492678810 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:62041
+INFO[0483] [492678810 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0483] [492678810 0ms] dns: cached 252.0.0.224.in-addr.arpa SOA 224.in-addr.arpa. 1104 IN SOA sns.dns.icann.org. noc.dns.icann.org. 2023096816 7200 3600 604800 3600
+INFO[0488] [1278715874 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:53445
+INFO[0488] [1278715874 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0492] [957970357 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:62864
+INFO[0492] [957970357 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0492] [957970357 0ms] dns: cached 3.0.0.0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.f.f.ip6.arpa SOA ip6.arpa. 2880 IN SOA b.ip6-servers.arpa. nstld.iana.org. 2026022090 1800 900 604800 3600
+INFO[0492] [1847342167 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:61547
+INFO[0492] [1847342167 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0492] [1847342167 61ms] dns: exchanged p2p-sto1.discovery.steamserver.net A p2p-sto1.discovery.steamserver.net. 39 IN A 162.254.198.44
+INFO[0492] [1847342167 61ms] dns: exchanged p2p-sto1.discovery.steamserver.net A p2p-sto1.discovery.steamserver.net. 39 IN A 162.254.198.104
+INFO[0492] [1847342167 61ms] dns: exchanged p2p-sto1.discovery.steamserver.net A p2p-sto1.discovery.steamserver.net. 39 IN A 162.254.198.46
+INFO[0492] [1847342167 71ms] dns: exchanged p2p-sto1.discovery.steamserver.net A p2p-sto1.discovery.steamserver.net. 39 IN A 162.254.198.46
+INFO[0492] [1847342167 71ms] dns: exchanged p2p-sto1.discovery.steamserver.net A p2p-sto1.discovery.steamserver.net. 39 IN A 162.254.198.44
+INFO[0492] [1847342167 71ms] dns: exchanged p2p-sto1.discovery.steamserver.net A p2p-sto1.discovery.steamserver.net. 39 IN A 162.254.198.104
+INFO[0493] [713983332 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:54007
+INFO[0493] [713983332 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0493] [713983332 0ms] dns: cached b.f.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.f.f.ip6.arpa SOA ip6.arpa. 2880 IN SOA b.ip6-servers.arpa. nstld.iana.org. 2026022090 1800 900 604800 3600
+INFO[0494] [549000255 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:53565
+INFO[0494] [549000255 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0494] [549000255 0ms] dns: cached 250.255.255.239.in-addr.arpa SOA 239.in-addr.arpa. 1497 IN SOA sns.dns.icann.org. noc.dns.icann.org. 2022091414 7200 3600 604800 3600
+INFO[0498] [16738319 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:53614
+INFO[0498] [16738319 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0498] [16738319 0ms] dns: cached c.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.f.f.ip6.arpa SOA ip6.arpa. 2873 IN SOA b.ip6-servers.arpa. nstld.iana.org. 2026022090 1800 900 604800 3600
+INFO[0499] [1607045740 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:57038
+INFO[0499] [1607045740 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0504] [1660872601 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:56902
+INFO[0504] [1660872601 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0504] [1660872601 0ms] dns: cached 252.0.0.224.in-addr.arpa SOA 224.in-addr.arpa. 1083 IN SOA sns.dns.icann.org. noc.dns.icann.org. 2023096816 7200 3600 604800 3600
+INFO[0506] [272737725 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:55181
+INFO[0506] [272737725 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0506] [272737725 48ms] dns: exchanged slack.com A slack.com. 60 IN A 52.29.238.212
+INFO[0506] [272737725 48ms] dns: exchanged slack.com A slack.com. 60 IN A 3.68.175.98
+INFO[0506] [272737725 48ms] dns: exchanged slack.com A slack.com. 60 IN A 3.68.170.153
+INFO[0506] [272737725 48ms] dns: exchanged slack.com A slack.com. 60 IN A 3.68.124.168
+INFO[0506] [272737725 48ms] dns: exchanged slack.com A slack.com. 60 IN A 18.159.197.225
+INFO[0506] [272737725 48ms] dns: exchanged slack.com A slack.com. 60 IN A 3.68.124.95
+INFO[0506] [2147111865 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:53291
+INFO[0506] [2147111865 0ms] inbound/tun[tun-in]: inbound packet connection to 52.29.238.212:443
+INFO[0506] [2147111865 0ms] outbound/vless[proxy]: outbound packet connection to 52.29.238.212:443
+INFO[0506] [2147111865 0ms] outbound/vless[proxy]: outbound packet connection to 52.29.238.212:443
+INFO[0506] [272737725 69ms] dns: exchanged slack.com A slack.com. 60 IN A 3.68.124.168
+INFO[0506] [272737725 69ms] dns: exchanged slack.com A slack.com. 60 IN A 18.159.197.225
+INFO[0506] [272737725 69ms] dns: exchanged slack.com A slack.com. 60 IN A 3.68.175.98
+INFO[0506] [272737725 69ms] dns: exchanged slack.com A slack.com. 60 IN A 52.29.238.212
+INFO[0506] [272737725 69ms] dns: exchanged slack.com A slack.com. 60 IN A 3.68.124.95
+INFO[0506] [272737725 69ms] dns: exchanged slack.com A slack.com. 60 IN A 3.68.170.153
+INFO[0508] [2838530365 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:60074
+INFO[0508] [2838530365 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0508] [2838530365 0ms] dns: cached 3.0.0.0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.f.f.ip6.arpa SOA ip6.arpa. 2863 IN SOA b.ip6-servers.arpa. nstld.iana.org. 2026022090 1800 900 604800 3600
+INFO[0509] [4238179979 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:61946
+INFO[0509] [4238179979 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0511] [276323863 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:54346
+INFO[0511] [276323863 0ms] inbound/tun[tun-in]: inbound packet connection to 162.159.136.232:443
+INFO[0511] [276323863 0ms] outbound/vless[proxy]: outbound packet connection to 162.159.136.232:443
+INFO[0511] [276323863 0ms] outbound/vless[proxy]: outbound packet connection to 162.159.136.232:443
+INFO[0514] [1751359264 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:54070
+INFO[0514] [1751359264 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0518] [3836136592 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:60683
+INFO[0518] [3836136592 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0518] [2223691087 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:137
+INFO[0518] [2223691087 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:137
+INFO[0519] [3982465385 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:57657
+INFO[0519] [3982465385 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0519] [3982465385 39ms] dns: exchanged optimizationguide-pa.googleapis.com A optimizationguide-pa.googleapis.com. 67 IN A 216.239.38.223
+INFO[0519] [3982465385 39ms] dns: exchanged optimizationguide-pa.googleapis.com A optimizationguide-pa.googleapis.com. 67 IN A 216.239.32.223
+INFO[0519] [3982465385 39ms] dns: exchanged optimizationguide-pa.googleapis.com A optimizationguide-pa.googleapis.com. 67 IN A 216.239.34.223
+INFO[0519] [3982465385 39ms] dns: exchanged optimizationguide-pa.googleapis.com A optimizationguide-pa.googleapis.com. 67 IN A 216.239.36.223
+INFO[0519] [2172858075 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:53049
+INFO[0519] [2172858075 0ms] inbound/tun[tun-in]: inbound packet connection to 216.239.38.223:443
+INFO[0519] [2172858075 0ms] outbound/vless[proxy]: outbound packet connection to 216.239.38.223:443
+INFO[0519] [2172858075 0ms] outbound/vless[proxy]: outbound packet connection to 216.239.38.223:443
+INFO[0519] [3982465385 74ms] dns: exchanged optimizationguide-pa.googleapis.com A optimizationguide-pa.googleapis.com. 206 IN A 216.239.34.223
+INFO[0519] [3982465385 74ms] dns: exchanged optimizationguide-pa.googleapis.com A optimizationguide-pa.googleapis.com. 206 IN A 216.239.32.223
+INFO[0519] [3982465385 74ms] dns: exchanged optimizationguide-pa.googleapis.com A optimizationguide-pa.googleapis.com. 206 IN A 216.239.36.223
+INFO[0519] [3982465385 74ms] dns: exchanged optimizationguide-pa.googleapis.com A optimizationguide-pa.googleapis.com. 206 IN A 216.239.38.223
+INFO[0523] [341357858 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:60687
+INFO[0523] [341357858 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0523] [341357858 0ms] dns: cached b.f.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.f.f.ip6.arpa SOA ip6.arpa. 2850 IN SOA b.ip6-servers.arpa. nstld.iana.org. 2026022090 1800 900 604800 3600
+INFO[0524] [2704732106 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:59246
+INFO[0524] [2704732106 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0524] [2704732106 0ms] dns: cached 250.186.32.46.in-addr.arpa SOA 186.32.46.in-addr.arpa. 1322 IN SOA ns1.veesp.com. admin.veesp.com. 2024020802 10800 3600 1814400 7200
+INFO[0528] [2772139640 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:60327
+INFO[0528] [2772139640 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0528] [2772139640 0ms] dns: cached 252.0.0.224.in-addr.arpa SOA 224.in-addr.arpa. 1058 IN SOA sns.dns.icann.org. noc.dns.icann.org. 2023096816 7200 3600 604800 3600
+INFO[0533] [2012471344 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:65194
+INFO[0533] [2012471344 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0533] [2012471344 0ms] dns: cached 3.0.0.0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.f.f.ip6.arpa SOA ip6.arpa. 2839 IN SOA b.ip6-servers.arpa. nstld.iana.org. 2026022090 1800 900 604800 3600
+INFO[0534] [3605485123 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:55717
+INFO[0534] [3605485123 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0537] [4129605193 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:49243
+INFO[0537] [4129605193 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0537] [4129605193 46ms] dns: exchanged ssl.gstatic.com A ssl.gstatic.com. 200 IN A 192.178.25.3
+INFO[0537] [3994912860 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:61195
+INFO[0537] [3994912860 0ms] inbound/tun[tun-in]: inbound packet connection to 192.178.25.3:443
+INFO[0537] [3994912860 0ms] outbound/vless[proxy]: outbound packet connection to 192.178.25.3:443
+INFO[0537] [3994912860 0ms] outbound/vless[proxy]: outbound packet connection to 192.178.25.3:443
+INFO[0537] [4129605193 71ms] dns: exchanged ssl.gstatic.com A ssl.gstatic.com. 209 IN A 142.251.143.131
+INFO[0538] [2062883053 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:58015
+INFO[0538] [2062883053 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0538] [2062883053 0ms] dns: cached 252.0.0.224.in-addr.arpa SOA 224.in-addr.arpa. 1049 IN SOA sns.dns.icann.org. noc.dns.icann.org. 2023096816 7200 3600 604800 3600
+INFO[0543] [319150008 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:51613
+INFO[0543] [319150008 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0543] [319150008 39ms] dns: exchanged 3.25.178.192.in-addr.arpa PTR 3.25.178.192.in-addr.arpa. 881 IN PTR lcarna-ae-in-f3.1e100.net.
+INFO[0543] [1206689824 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:52222
+INFO[0543] [1206689824 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0543] [1206689824 0ms] dns: cached 250.186.32.46.in-addr.arpa SOA 186.32.46.in-addr.arpa. 1303 IN SOA ns1.veesp.com. admin.veesp.com. 2024020802 10800 3600 1814400 7200
+INFO[0543] [319150008 71ms] dns: exchanged 3.25.178.192.in-addr.arpa PTR 3.25.178.192.in-addr.arpa. 974 IN PTR lcarna-ae-in-f3.1e100.net.
+INFO[0547] [1563205534 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:58219
+INFO[0547] [1563205534 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0547] [1563205534 0ms] dns: cached 3.0.0.0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.f.f.ip6.arpa SOA ip6.arpa. 2824 IN SOA b.ip6-servers.arpa. nstld.iana.org. 2026022090 1800 900 604800 3600
+INFO[0548] [143360364 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:56842
+INFO[0548] [143360364 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0553] [1475747963 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:53089
+INFO[0553] [1475747963 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0553] [1475747963 39ms] dns: exchanged p2p-sto1.discovery.steamserver.net A p2p-sto1.discovery.steamserver.net. 39 IN A 162.254.198.104
+INFO[0553] [1475747963 39ms] dns: exchanged p2p-sto1.discovery.steamserver.net A p2p-sto1.discovery.steamserver.net. 39 IN A 162.254.198.46
+INFO[0553] [1475747963 39ms] dns: exchanged p2p-sto1.discovery.steamserver.net A p2p-sto1.discovery.steamserver.net. 39 IN A 162.254.198.44
+INFO[0553] [1475747963 71ms] dns: exchanged p2p-sto1.discovery.steamserver.net A p2p-sto1.discovery.steamserver.net. 39 IN A 162.254.198.104
+INFO[0553] [1475747963 71ms] dns: exchanged p2p-sto1.discovery.steamserver.net A p2p-sto1.discovery.steamserver.net. 39 IN A 162.254.198.46
+INFO[0553] [1475747963 71ms] dns: exchanged p2p-sto1.discovery.steamserver.net A p2p-sto1.discovery.steamserver.net. 39 IN A 162.254.198.44
+INFO[0553] [1614642807 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:54085
+INFO[0553] [1614642807 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0553] [1614642807 0ms] dns: cached 252.0.0.224.in-addr.arpa SOA 224.in-addr.arpa. 1034 IN SOA sns.dns.icann.org. noc.dns.icann.org. 2023096816 7200 3600 604800 3600
+INFO[0557] [263859290 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:64994
+INFO[0557] [263859290 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0557] [263859290 0ms] dns: cached b.f.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.f.f.ip6.arpa SOA ip6.arpa. 2816 IN SOA b.ip6-servers.arpa. nstld.iana.org. 2026022090 1800 900 604800 3600
+INFO[0558] [3359231632 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:62241
+INFO[0558] [3359231632 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0558] [3359231632 0ms] dns: cached 250.255.255.239.in-addr.arpa SOA 239.in-addr.arpa. 1433 IN SOA sns.dns.icann.org. noc.dns.icann.org. 2022091414 7200 3600 604800 3600
+INFO[0562] [2593950716 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:62261
+INFO[0562] [2593950716 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0562] [2593950716 0ms] dns: cached c.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.f.f.ip6.arpa SOA ip6.arpa. 2809 IN SOA b.ip6-servers.arpa. nstld.iana.org. 2026022090 1800 900 604800 3600
+INFO[0563] [2103682735 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:49739
+INFO[0563] [2103682735 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0563] [2103682735 0ms] dns: cached 3.0.0.0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.f.f.ip6.arpa SOA ip6.arpa. 2808 IN SOA b.ip6-servers.arpa. nstld.iana.org. 2026022090 1800 900 604800 3600
+INFO[0564] [1545315861 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:63283
+INFO[0564] [1545315861 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0564] [1350570960 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:137
+INFO[0564] [1350570960 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:137
+INFO[0569] [2788438275 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:63972
+INFO[0569] [2788438275 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0569] [2788438275 0ms] dns: cached 252.0.0.224.in-addr.arpa SOA 224.in-addr.arpa. 1018 IN SOA sns.dns.icann.org. noc.dns.icann.org. 2023096816 7200 3600 604800 3600
+INFO[0573] [3015401020 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:52805
+INFO[0573] [3015401020 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0578] [3133015905 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:63880
+INFO[0578] [3133015905 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0578] [1696203490 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:137
+INFO[0578] [1696203490 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:137
+INFO[0582] [3912266980 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:50623
+INFO[0582] [3912266980 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0582] [3912266980 0ms] dns: cached 3.0.0.0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.f.f.ip6.arpa SOA ip6.arpa. 2789 IN SOA b.ip6-servers.arpa. nstld.iana.org. 2026022090 1800 900 604800 3600
+INFO[0583] [4236879237 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:51671
+INFO[0583] [4236879237 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0583] [4236879237 0ms] dns: cached 252.0.0.224.in-addr.arpa SOA 224.in-addr.arpa. 1003 IN SOA sns.dns.icann.org. noc.dns.icann.org. 2023096816 7200 3600 604800 3600
+INFO[0588] [3167284324 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:52111
+INFO[0588] [3167284324 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0592] [3265942720 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:52319
+INFO[0592] [3265942720 0ms] inbound/tun[tun-in]: inbound packet connection to 192.178.25.3:443
+INFO[0592] [3265942720 0ms] outbound/vless[proxy]: outbound packet connection to 192.178.25.3:443
+INFO[0592] [3265942720 0ms] outbound/vless[proxy]: outbound packet connection to 192.178.25.3:443
+INFO[0592] [2832844351 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:63634
+INFO[0592] [2832844351 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0592] [2832844351 51ms] dns: exchanged cdn.givefreely.com CNAME cdn.givefreely.com. 60 IN CNAME ddau1zjkka8rk.cloudfront.net.
+INFO[0592] [2832844351 51ms] dns: exchanged cdn.givefreely.com A ddau1zjkka8rk.cloudfront.net. 60 IN A 3.164.206.128
+INFO[0592] [2832844351 51ms] dns: exchanged cdn.givefreely.com A ddau1zjkka8rk.cloudfront.net. 60 IN A 3.164.206.127
+INFO[0592] [2832844351 51ms] dns: exchanged cdn.givefreely.com A ddau1zjkka8rk.cloudfront.net. 60 IN A 3.164.206.16
+INFO[0592] [2832844351 51ms] dns: exchanged cdn.givefreely.com A ddau1zjkka8rk.cloudfront.net. 60 IN A 3.164.206.24
+INFO[0592] [3691068109 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:52102
+INFO[0592] [3691068109 0ms] inbound/tun[tun-in]: inbound connection to 3.164.206.128:443
+INFO[0592] [3691068109 0ms] outbound/vless[proxy]: outbound connection to 3.164.206.128:443
+INFO[0592] [685524452 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:56642
+INFO[0592] [685524452 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0592] [685524452 0ms] dns: cached 3.0.0.0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.f.f.ip6.arpa SOA ip6.arpa. 2779 IN SOA b.ip6-servers.arpa. nstld.iana.org. 2026022090 1800 900 604800 3600
+INFO[0592] [2832844351 71ms] dns: exchanged cdn.givefreely.com CNAME cdn.givefreely.com. 60 IN CNAME ddau1zjkka8rk.cloudfront.net.
+INFO[0592] [2832844351 71ms] dns: exchanged cdn.givefreely.com A ddau1zjkka8rk.cloudfront.net. 60 IN A 3.164.206.16
+INFO[0592] [2832844351 71ms] dns: exchanged cdn.givefreely.com A ddau1zjkka8rk.cloudfront.net. 60 IN A 3.164.206.24
+INFO[0592] [2832844351 71ms] dns: exchanged cdn.givefreely.com A ddau1zjkka8rk.cloudfront.net. 60 IN A 3.164.206.128
+INFO[0592] [2832844351 71ms] dns: exchanged cdn.givefreely.com A ddau1zjkka8rk.cloudfront.net. 60 IN A 3.164.206.127
+INFO[0592] [3691068109 59ms] outbound/vless[proxy]: outbound connection to 3.164.206.128:443
+INFO[0593] [878915326 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:50282
+INFO[0593] [878915326 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0598] [3030038634 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:58612
+INFO[0598] [3030038634 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0598] [3030038634 0ms] dns: cached 252.0.0.224.in-addr.arpa SOA 224.in-addr.arpa. 989 IN SOA sns.dns.icann.org. noc.dns.icann.org. 2023096816 7200 3600 604800 3600
+INFO[0602] [1980365155 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:59823
+INFO[0602] [1980365155 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0602] [1980365155 0ms] dns: cached 250.186.32.46.in-addr.arpa SOA 186.32.46.in-addr.arpa. 1243 IN SOA ns1.veesp.com. admin.veesp.com. 2024020802 10800 3600 1814400 7200
+INFO[0602] [2535638616 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:137
+INFO[0602] [2535638616 0ms] inbound/tun[tun-in]: inbound packet connection to 46.32.186.250:137
+INFO[0603] [10723858 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:64689
+INFO[0603] [10723858 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0603] [10723858 46ms] dns: exchanged count.perplexity.ai A count.perplexity.ai. 300 IN A 104.18.26.48
+INFO[0603] [10723858 46ms] dns: exchanged count.perplexity.ai A count.perplexity.ai. 300 IN A 104.18.27.48
+INFO[0603] [10723858 79ms] dns: exchanged count.perplexity.ai A count.perplexity.ai. 300 IN A 104.18.27.48
+INFO[0603] [10723858 79ms] dns: exchanged count.perplexity.ai A count.perplexity.ai. 300 IN A 104.18.26.48
+INFO[0607] [22208798 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:51691
+INFO[0607] [22208798 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0611] [3872293880 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:50970
+INFO[0611] [3872293880 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0611] [3872293880 0ms] dns: cached 3.0.0.0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.f.f.ip6.arpa SOA ip6.arpa. 2760 IN SOA b.ip6-servers.arpa. nstld.iana.org. 2026022090 1800 900 604800 3600
+INFO[0612] [2779819857 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:61350
+INFO[0612] [2779819857 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0612] [2779819857 0ms] dns: cached 252.0.0.224.in-addr.arpa SOA 224.in-addr.arpa. 975 IN SOA sns.dns.icann.org. noc.dns.icann.org. 2023096816 7200 3600 604800 3600
+INFO[0613] [2336765152 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:53837
+INFO[0613] [2336765152 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0613] [2336765152 40ms] dns: exchanged p2p-sto1.discovery.steamserver.net A p2p-sto1.discovery.steamserver.net. 39 IN A 162.254.198.44
+INFO[0613] [2336765152 40ms] dns: exchanged p2p-sto1.discovery.steamserver.net A p2p-sto1.discovery.steamserver.net. 39 IN A 162.254.198.46
+INFO[0613] [2336765152 40ms] dns: exchanged p2p-sto1.discovery.steamserver.net A p2p-sto1.discovery.steamserver.net. 39 IN A 162.254.198.104
+INFO[0613] [2336765152 71ms] dns: exchanged p2p-sto1.discovery.steamserver.net A p2p-sto1.discovery.steamserver.net. 39 IN A 162.254.198.46
+INFO[0613] [2336765152 71ms] dns: exchanged p2p-sto1.discovery.steamserver.net A p2p-sto1.discovery.steamserver.net. 39 IN A 162.254.198.44
+INFO[0613] [2336765152 71ms] dns: exchanged p2p-sto1.discovery.steamserver.net A p2p-sto1.discovery.steamserver.net. 39 IN A 162.254.198.104
+INFO[0613] [1306592014 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:65356
+INFO[0613] [1306592014 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0613] [1306592014 40ms] dns: exchanged graph.facebook.com CNAME graph.facebook.com. 10 IN CNAME star.c10r.facebook.com.
+INFO[0613] [1306592014 40ms] dns: exchanged graph.facebook.com A star.c10r.facebook.com. 10 IN A 31.13.72.8
+INFO[0613] [2764446943 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:52106
+INFO[0613] [2764446943 0ms] inbound/tun[tun-in]: inbound connection to 31.13.72.8:443
+INFO[0613] [2764446943 1ms] outbound/vless[proxy]: outbound connection to 31.13.72.8:443
+INFO[0613] [1306592014 70ms] dns: exchanged graph.facebook.com CNAME graph.facebook.com. 10 IN CNAME star.c10r.facebook.com.
+INFO[0613] [1306592014 70ms] dns: exchanged graph.facebook.com A star.c10r.facebook.com. 10 IN A 31.13.72.8
+INFO[0613] [2764446943 62ms] outbound/vless[proxy]: outbound connection to 31.13.72.8:443
+INFO[0617] [3190060723 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:65518
+INFO[0617] [3190060723 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0617] [3190060723 0ms] dns: cached b.f.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.f.f.ip6.arpa SOA ip6.arpa. 2756 IN SOA b.ip6-servers.arpa. nstld.iana.org. 2026022090 1800 900 604800 3600
+INFO[0618] [1764532829 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:60224
+INFO[0618] [1764532829 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0618] [1764532829 0ms] dns: cached 250.255.255.239.in-addr.arpa SOA 239.in-addr.arpa. 1373 IN SOA sns.dns.icann.org. noc.dns.icann.org. 2022091414 7200 3600 604800 3600
+INFO[0622] [4219269094 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:51470
+INFO[0622] [4219269094 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0622] [4219269094 0ms] dns: cached c.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.f.f.ip6.arpa SOA ip6.arpa. 2750 IN SOA b.ip6-servers.arpa. nstld.iana.org. 2026022090 1800 900 604800 3600
+INFO[0623] [535459721 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:49582
+INFO[0623] [535459721 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0623] [282504020 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:137
+INFO[0623] [282504020 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:137
+INFO[0627] [4245072508 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:62263
+INFO[0627] [4245072508 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0627] [4245072508 0ms] dns: cached 3.0.0.0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.f.f.ip6.arpa SOA ip6.arpa. 2744 IN SOA b.ip6-servers.arpa. nstld.iana.org. 2026022090 1800 900 604800 3600
+INFO[0628] [598135623 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:64304
+INFO[0628] [598135623 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0628] [598135623 0ms] dns: cached 250.186.32.46.in-addr.arpa SOA 186.32.46.in-addr.arpa. 1217 IN SOA ns1.veesp.com. admin.veesp.com. 2024020802 10800 3600 1814400 7200
+INFO[0629] [1233169823 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:54036
+INFO[0629] [1233169823 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0629] [1233169823 38ms] dns: exchanged slackb.com A slackb.com. 40 IN A 44.216.98.239
+INFO[0629] [1233169823 38ms] dns: exchanged slackb.com A slackb.com. 40 IN A 52.200.46.145
+INFO[0629] [1233169823 38ms] dns: exchanged slackb.com A slackb.com. 40 IN A 3.91.140.69
+INFO[0629] [1233169823 38ms] dns: exchanged slackb.com A slackb.com. 40 IN A 3.90.158.208
+INFO[0629] [1233169823 38ms] dns: exchanged slackb.com A slackb.com. 40 IN A 54.236.104.103
+INFO[0629] [1233169823 39ms] dns: exchanged slackb.com A slackb.com. 40 IN A 34.202.253.140
+INFO[0629] [1233169823 39ms] dns: exchanged slackb.com A slackb.com. 40 IN A 18.213.32.120
+INFO[0629] [1233169823 39ms] dns: exchanged slackb.com A slackb.com. 40 IN A 44.205.171.153
+INFO[0629] [1233169823 39ms] dns: exchanged slackb.com A slackb.com. 40 IN A 52.3.167.79
+INFO[0629] [1233169823 39ms] dns: exchanged slackb.com A slackb.com. 40 IN A 34.195.221.192
+INFO[0629] [2874546130 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:61199
+INFO[0629] [2874546130 0ms] inbound/tun[tun-in]: inbound packet connection to 44.216.98.239:443
+INFO[0629] [2874546130 0ms] outbound/vless[proxy]: outbound packet connection to 44.216.98.239:443
+INFO[0629] [2874546130 0ms] outbound/vless[proxy]: outbound packet connection to 44.216.98.239:443
+INFO[0629] [1233169823 71ms] dns: exchanged slackb.com A slackb.com. 40 IN A 34.195.221.192
+INFO[0629] [1233169823 71ms] dns: exchanged slackb.com A slackb.com. 40 IN A 54.236.104.103
+INFO[0629] [1233169823 71ms] dns: exchanged slackb.com A slackb.com. 40 IN A 52.200.46.145
+INFO[0629] [1233169823 71ms] dns: exchanged slackb.com A slackb.com. 40 IN A 44.216.98.239
+INFO[0629] [1233169823 71ms] dns: exchanged slackb.com A slackb.com. 40 IN A 34.202.253.140
+INFO[0629] [1233169823 71ms] dns: exchanged slackb.com A slackb.com. 40 IN A 3.90.158.208
+INFO[0629] [1233169823 71ms] dns: exchanged slackb.com A slackb.com. 40 IN A 18.213.32.120
+INFO[0629] [1233169823 71ms] dns: exchanged slackb.com A slackb.com. 40 IN A 44.205.171.153
+INFO[0629] [1233169823 71ms] dns: exchanged slackb.com A slackb.com. 40 IN A 52.3.167.79
+INFO[0629] [1233169823 71ms] dns: exchanged slackb.com A slackb.com. 40 IN A 3.91.140.69
+INFO[0632] [18338519 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:57172
+INFO[0632] [18338519 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0633] [18338519 39ms] dns: exchanged browser-intake-datadoghq.com A browser-intake-datadoghq.com. 36 IN A 3.233.158.26
+INFO[0633] [18338519 39ms] dns: exchanged browser-intake-datadoghq.com A browser-intake-datadoghq.com. 36 IN A 3.233.158.25
+INFO[0633] [18338519 39ms] dns: exchanged browser-intake-datadoghq.com A browser-intake-datadoghq.com. 36 IN A 3.233.158.24
+INFO[0633] [3599211012 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:52109
+INFO[0633] [3599211012 0ms] inbound/tun[tun-in]: inbound connection to 3.233.158.26:443
+INFO[0633] [3599211012 0ms] outbound/vless[proxy]: outbound connection to 3.233.158.26:443
+INFO[0633] [18338519 70ms] dns: exchanged browser-intake-datadoghq.com A browser-intake-datadoghq.com. 36 IN A 3.233.158.24
+INFO[0633] [18338519 70ms] dns: exchanged browser-intake-datadoghq.com A browser-intake-datadoghq.com. 36 IN A 3.233.158.25
+INFO[0633] [18338519 70ms] dns: exchanged browser-intake-datadoghq.com A browser-intake-datadoghq.com. 36 IN A 3.233.158.26
+INFO[0633] [3599211012 58ms] outbound/vless[proxy]: outbound connection to 3.233.158.26:443
+INFO[0633] [3952947135 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:54752
+INFO[0633] [3952947135 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0633] [3952947135 0ms] dns: cached 252.0.0.224.in-addr.arpa SOA 224.in-addr.arpa. 954 IN SOA sns.dns.icann.org. noc.dns.icann.org. 2023096816 7200 3600 604800 3600
+INFO[0637] [54061745 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:54791
+INFO[0637] [54061745 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0638] [3504019087 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:60300
+INFO[0638] [3504019087 0ms] inbound/tun[tun-in]: inbound packet connection to 162.159.136.232:443
+INFO[0638] [3504019087 0ms] outbound/vless[proxy]: outbound packet connection to 162.159.136.232:443
+INFO[0638] [3504019087 0ms] outbound/vless[proxy]: outbound packet connection to 162.159.136.232:443
+INFO[0642] [2580011415 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:49271
+INFO[0642] [2580011415 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0642] [2471706292 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:137
+INFO[0642] [2471706292 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:137
+INFO[0646] [2236438922 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:52132
+INFO[0646] [2236438922 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0646] [2236438922 44ms] dns: exchanged browser-intake-us5-datadoghq.com A browser-intake-us5-datadoghq.com. 131 IN A 34.149.66.154
+INFO[0646] [4150437012 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:52113
+INFO[0646] [4150437012 0ms] inbound/tun[tun-in]: inbound connection to 34.149.66.154:443
+INFO[0646] [4150437012 0ms] outbound/vless[proxy]: outbound connection to 34.149.66.154:443
+INFO[0646] [2236438922 70ms] dns: exchanged browser-intake-us5-datadoghq.com A browser-intake-us5-datadoghq.com. 193 IN A 34.149.66.154
+INFO[0646] [4150437012 58ms] outbound/vless[proxy]: outbound connection to 34.149.66.154:443
+INFO[0646] [3180625494 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:56504
+INFO[0646] [3180625494 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0646] [3180625494 0ms] dns: cached 3.0.0.0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.f.f.ip6.arpa SOA ip6.arpa. 2725 IN SOA b.ip6-servers.arpa. nstld.iana.org. 2026022090 1800 900 604800 3600
+INFO[0647] [2067391359 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:63095
+INFO[0647] [2067391359 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0647] [2067391359 0ms] dns: cached 250.186.32.46.in-addr.arpa SOA 186.32.46.in-addr.arpa. 1198 IN SOA ns1.veesp.com. admin.veesp.com. 2024020802 10800 3600 1814400 7200
+INFO[0652] [887708631 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:54904
+INFO[0652] [887708631 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0652] [887708631 0ms] dns: cached 252.0.0.224.in-addr.arpa SOA 224.in-addr.arpa. 935 IN SOA sns.dns.icann.org. noc.dns.icann.org. 2023096816 7200 3600 604800 3600
+INFO[0656] [633211635 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:55558
+INFO[0656] [633211635 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0660] [3333770987 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:57370
+INFO[0660] [3333770987 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0660] [3333770987 59ms] dns: exchanged checkappexec.microsoft.com CNAME checkappexec.microsoft.com. 10 IN CNAME prod-atm-wds-apprep.trafficmanager.net.
+INFO[0660] [3333770987 59ms] dns: exchanged checkappexec.microsoft.com CNAME prod-atm-wds-apprep.trafficmanager.net. 10 IN CNAME prod-agic-ne-5.northeurope.cloudapp.azure.com.
+INFO[0660] [3333770987 59ms] dns: exchanged checkappexec.microsoft.com A prod-agic-ne-5.northeurope.cloudapp.azure.com. 10 IN A 48.209.162.134
+INFO[0660] [2295611244 0ms] inbound/tun[tun-in]: inbound connection from 172.19.0.1:52115
+INFO[0660] [2295611244 0ms] inbound/tun[tun-in]: inbound connection to 48.209.162.134:443
+INFO[0660] [2295611244 1ms] outbound/vless[proxy]: outbound connection to 48.209.162.134:443
+INFO[0660] [3333770987 90ms] dns: exchanged checkappexec.microsoft.com CNAME checkappexec.microsoft.com. 10 IN CNAME prod-atm-wds-apprep.trafficmanager.net.
+INFO[0660] [3333770987 90ms] dns: exchanged checkappexec.microsoft.com CNAME prod-atm-wds-apprep.trafficmanager.net. 10 IN CNAME prod-agic-we-1.westeurope.cloudapp.azure.com.
+INFO[0660] [3333770987 90ms] dns: exchanged checkappexec.microsoft.com A prod-agic-we-1.westeurope.cloudapp.azure.com. 10 IN A 20.82.9.214
+INFO[0660] [2295611244 60ms] outbound/vless[proxy]: outbound connection to 48.209.162.134:443
+INFO[0661] [3175764952 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:60476
+INFO[0661] [3175764952 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0661] [3175764952 0ms] dns: cached 3.0.0.0.1.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.0.2.0.f.f.ip6.arpa SOA ip6.arpa. 2711 IN SOA b.ip6-servers.arpa. nstld.iana.org. 2026022090 1800 900 604800 3600
+INFO[0661] [14511724 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:57477
+INFO[0661] [14511724 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0661] [14511724 48ms] dns: exchanged slack.com A slack.com. 60 IN A 3.68.124.95
+INFO[0661] [14511724 48ms] dns: exchanged slack.com A slack.com. 60 IN A 18.159.197.225
+INFO[0661] [14511724 48ms] dns: exchanged slack.com A slack.com. 60 IN A 3.68.170.153
+INFO[0661] [14511724 48ms] dns: exchanged slack.com A slack.com. 60 IN A 3.68.175.98
+INFO[0661] [14511724 48ms] dns: exchanged slack.com A slack.com. 60 IN A 52.29.238.212
+INFO[0661] [14511724 48ms] dns: exchanged slack.com A slack.com. 60 IN A 3.68.124.168
+INFO[0661] [2445405543 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:52395
+INFO[0661] [2445405543 0ms] inbound/tun[tun-in]: inbound packet connection to 3.68.124.95:443
+INFO[0661] [2445405543 0ms] outbound/vless[proxy]: outbound packet connection to 3.68.124.95:443
+INFO[0661] [2445405543 0ms] outbound/vless[proxy]: outbound packet connection to 3.68.124.95:443
+INFO[0661] [14511724 70ms] dns: exchanged slack.com A slack.com. 60 IN A 3.68.175.98
+INFO[0661] [14511724 70ms] dns: exchanged slack.com A slack.com. 60 IN A 3.68.170.153
+INFO[0661] [14511724 70ms] dns: exchanged slack.com A slack.com. 60 IN A 18.159.197.225
+INFO[0661] [14511724 70ms] dns: exchanged slack.com A slack.com. 60 IN A 3.68.124.168
+INFO[0661] [14511724 70ms] dns: exchanged slack.com A slack.com. 60 IN A 3.68.124.95
+INFO[0661] [14511724 70ms] dns: exchanged slack.com A slack.com. 60 IN A 52.29.238.212
+INFO[0662] [4092747414 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:62306
+INFO[0662] [4092747414 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0662] [4092747414 39ms] dns: exchanged 134.162.209.48.in-addr.arpa SOA 162.209.48.in-addr.arpa. 190 IN SOA ns1-03.azure-dns.com. azuredns-hostmaster.microsoft.com. 1 3600 300 2419200 300
+INFO[0662] [4092747414 81ms] dns: exchanged 134.162.209.48.in-addr.arpa SOA 162.209.48.in-addr.arpa. 63 IN SOA ns1-03.azure-dns.com. azuredns-hostmaster.microsoft.com. 1 3600 300 2419200 300
+INFO[0666] [2706805897 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:49842
+INFO[0666] [2706805897 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0666] [2706805897 0ms] dns: cached 250.186.32.46.in-addr.arpa SOA 186.32.46.in-addr.arpa. 1179 IN SOA ns1.veesp.com. admin.veesp.com. 2024020802 10800 3600 1814400 7200
+INFO[0671] [3168252122 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:56040
+INFO[0671] [3168252122 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0672] [271090816 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:54584
+INFO[0672] [271090816 0ms] inbound/tun[tun-in]: inbound packet connection to 162.159.136.232:443
+INFO[0672] [271090816 0ms] outbound/vless[proxy]: outbound packet connection to 162.159.136.232:443
+INFO[0672] [271090816 0ms] outbound/vless[proxy]: outbound packet connection to 162.159.136.232:443
+INFO[0673] [139864346 0ms] inbound/tun[tun-in]: inbound packet connection from 172.19.0.1:52519
+INFO[0673] [139864346 0ms] inbound/tun[tun-in]: inbound packet connection to 172.19.0.2:53
+INFO[0673] [139864346 38ms] dns: exchanged p2p-sto1.discovery.steamserver.net A p2p-sto1.discovery.steamserver.net. 39 IN A 162.254.198.104
+INFO[0673] [139864346 38ms] dns: exchanged p2p-sto1.discovery.steamserver.net A p2p-sto1.discovery.steamserver.net. 39 IN A 162.254.198.46
+INFO[0673] [139864346 38ms] dns: exchanged p2p-sto1.discovery.steamserver.net A p2p-sto1.discovery.steamserver.net. 39 IN A 162.254.198.44
+INFO[0673] [139864346 69ms] dns: exchanged p2p-sto1.discovery.steamserver.net A p2p-sto1.discovery.steamserver.net. 39 IN A 162.254.198.104
+INFO[0673] [139864346 69ms] dns: exchanged p2p-sto1.discovery.steamserver.net A p2p-sto1.discovery.steamserver.net. 39 IN A 162.254.198.44
+INFO[0673] [139864346 69ms] dns: exchanged p2p-sto1.discovery.steamserver.net A p2p-sto1.discovery.steamserver.net. 39 IN A 162.254.198.46
+2026/03/28 11:02:09 nekobox_core grpc server listening at 127.0.0.1:52190

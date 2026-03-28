@@ -1,0 +1,23 @@
+{
+    "bean": {
+        "_v": 0,
+        "addr": "127.0.0.1",
+        "name": "пися",
+        "port": 1080,
+        "stream": {
+            "ed_len": 0,
+            "insecure": false,
+            "mux_s": 0,
+            "net": "tcp"
+        },
+        "v": 5
+    },
+    "gid": 0,
+    "id": 2,
+    "traffic": {
+        "dl": 0,
+        "ul": 0
+    },
+    "type": "socks",
+    "yc": 0
+}

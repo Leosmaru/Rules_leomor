@@ -5,7 +5,7 @@
     "core_box_clash_api": -9090,
     "current_group": 0,
     "custom_inbound": "{\"inbounds\": []}",
-    "custom_route": "{\"rules\":[{\"ip_is_private\":true,\"outbound\":\"direct\"},{\"geoip\":[\"ru\",\"by\",\"su\"],\"outbound\":\"direct\"},{\"geosite\":[\"ru\"],\"outbound\":\"direct\"},{\"domain_regex\":[\".*\\\\.ru$\",\".*\\\\.su$\",\".*\\\\.xn--p1ai$\",\".*\\\\.xn--80aswg$\",\".*\\\\.xn--c1avg$\",\".*\\\\.xn--80asehdb$\",\".*\\\\.xn--p1acf$\"],\"outbound\":\"direct\"},{\"domain_suffix\":[\".su\",\".by\",\".xn--p1ai\",\".xn--80aswg\",\".xn--c1avg\",\".xn--80asehdb\",\".xn--p1acf\"],\"outbound\":\"direct\"},{\"outbound\":\"proxy\",\"process_name\":[\"chrome.exe\",\"Arc.exe\",\"firefox.exe\",\"Tor Browser.exe\",\"Screenpresso.exe\",\"slack.exe\",\"TQ.exe\",\"perplexity.exe\",\"Perplexity.exe\",\"Discord.exe\",\"Loader.exe\",\"SideQuest.exe\",\"GGST-Win64-Shipping.exe\",\"CLIPStudioPaint.exe\",\"CLIPStudio.exe\",\"GGST.exe\"]}]}",
+    "custom_route": "{\"rules\":[{\"ip_is_private\":true,\"outbound\":\"direct\"},{\"geoip\":[\"ru\",\"by\",\"su\"],\"outbound\":\"direct\"},{\"geosite\":[\"ru\"],\"outbound\":\"direct\"},{\"domain_regex\":[\".*\\\\.ru$\",\".*\\\\.su$\",\".*\\\\.xn--p1ai$\",\".*\\\\.xn--80aswg$\",\".*\\\\.xn--c1avg$\",\".*\\\\.xn--80asehdb$\",\".*\\\\.xn--p1acf$\"],\"outbound\":\"direct\"},{\"domain_suffix\":[\".su\",\".by\",\".xn--p1ai\",\".xn--80aswg\",\".xn--c1avg\",\".xn--80asehdb\",\".xn--p1acf\"],\"outbound\":\"direct\"},{\"outbound\":\"proxy\",\"process_name\":[\"chrome.exe\",\"Arc.exe\",\"firefox.exe\",\"Tor Browser.exe\",\"Screenpresso.exe\",\"slack.exe\",\"TQ.exe\",\"perplexity.exe\",\"Perplexity.exe\",\"Discord.exe\",\"Loader.exe\",\"SideQuest.exe\",\"GGST-Win64-Shipping.exe\",\"CLIPStudioPaint.exe\",\"CLIPStudio.exe\",\"Sky.exe\",\"GGST.exe\"]}]}",
     "extraCore": {
         "core_map": "{\"hysteria2\":\"\",\"naive\":\"\",\"tuic\":\"\"}"
     },
@@ -41,7 +41,7 @@
     "test_url_dl": "http://cachefly.cachefly.net/10mb.test",
     "theme": "Windows",
     "traffic_loop_interval": 1000,
-    "vpn_bypass_process": "Arc.exe\nchrome.exe\nDiscord.exe\nfirefox.exe\nTor Browser.exe\nScreenpresso.exe\nslack.exe\nTQ.exe\nperplexity.exe\nPerplexity.exe\nLoader.exe\nTelegram.exe\nSideQuest.exe\nggst-win64-shipping.exe\nCLIPStudioPaint.exe\nCLIPStudio.exe\nGGST.exe\nGGST-Win64-Shipping.exe",
+    "vpn_bypass_process": "Arc.exe\nchrome.exe\nDiscord.exe\nfirefox.exe\nTor Browser.exe\nScreenpresso.exe\nslack.exe\nTQ.exe\nperplexity.exe\nPerplexity.exe\nLoader.exe\nTelegram.exe\nSideQuest.exe\nggst-win64-shipping.exe\nCLIPStudioPaint.exe\nCLIPStudio.exe\nGGST.exe\nGGST-Win64-Shipping.exe\nSky.exe",
     "vpn_hide_console": true,
     "vpn_impl": 0,
     "vpn_internal_tun": true,

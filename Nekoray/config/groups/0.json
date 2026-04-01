@@ -9,9 +9,7 @@
     "name": "По умолчанию",
     "order": [
         1,
-        2,
-        3,
-        4
+        2
     ],
     "skip_auto_update": false
 }
